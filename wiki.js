@@ -1,4 +1,4 @@
-window.addEventListener("load",async ()=>{
+async function CheckHash(){
 	let Hash = window.location.hash;
 	if(Hash.length<1)return;
 	Hash = Hash.substring(1);
@@ -6,8 +6,11 @@ window.addEventListener("load",async ()=>{
 	try{
 		let Response = await fetch(`https://fireyauto.github.io/DistrictCascade/wikipages/${Hash}.txt`);
 		Response = await Response.text()
-		document.getElementById("content").innerHTML = Response;
+		document.getElementById("side").innerHTML = Response;
 	}catch(E){
 		console.error(E);
 	}
-});
+}
+
+window.addEventListener("load",CheckHash);
+window.addEventListener("hashchange",CheckHash);

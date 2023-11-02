@@ -111,6 +111,7 @@ h1,h2,h3 {
 
 .current-link {
 	background: var(--light-main-color) !important;
+	border: 4px solid var(--light-main-color) !important;
 }
 
 /* CONTENT */
@@ -119,6 +120,35 @@ h1,h2,h3 {
 	width:calc(100% - 100px);
 	height:auto;
 	padding:50px;
+}
+
+#list {
+	width:15vw;
+	height:auto;
+	border:2px solid var(--outline-color);
+	float:left;
+	padding-top:10px;
+	padding-bottom:10px;
+	position:absolute;
+}
+
+#list>a {
+	padding-right:10px;
+	padding-left:10px;
+	color: var(--main-text-color);
+	text-decoration:none;
+	-webkit-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+
+#side {
+	width:calc(80vw - 50px);
+	height:auto;
+	position:absolute;
+	float:right;
+	right:50px;
+	border:2px solid var(--outline-color);
 }
 
 /* INPUTS */
