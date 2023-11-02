@@ -5,7 +5,7 @@ window.addEventListener("load",async ()=>{
 	if(Hash.length<1)return;
 	try{
 		let Response = await fetch(`https://fireyauto.github.io/DistrictCascade/wikipages/${Hash}.txt`);
-		document.getElementById("content").innerHTML = Response;
+		document.getElementById("content").innerHTML = await Response.text();
 	}catch(E){
 		console.error(E);
 	}
