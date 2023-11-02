@@ -202,7 +202,7 @@ const Matches = [
 		name:"Link",
 		match:/(\{\(l\:(.+?)\)\s*(.+?)\})/g,//"\\{\\(l\\:(.+?)\\)\\s*(.+?)\\}",
 		call:function(_,_,n,t){
-			return `<a href="${t}">${n}</a>`;
+			return `<a class="side-a" href="${t}">${n}</a>`;
 		}
 	},
 	{
@@ -230,7 +230,7 @@ const Matches = [
 		name:"WikiReference",
 		match:/(\{{2}(.+?)\:(.+?)\}{2})/g,
 		call:function(_,_,t,n){
-			return `<a href="#${t}">${n}</a>`;
+			return `<a class="side-a" href="#${t}">${n}</a>`;
 		}
 	},
 	{

@@ -17,7 +17,7 @@ async function CheckHash(){
 	Hash = Hash.substring(1);
 	if(Hash.length<1)Hash="home";
 	try{
-		let Response = await fetch(`https://fireyauto.github.io/DistrictCascade/wikipages/${Hash}.txt`);
+		let Response = await fetch(`https://raw.githubusercontent.com/FIREYAUTO/DistrictCascade/main/wikipages/${Hash}.txt`);
 		Response = await Response.text();
 		if(window.WikiParse){
 			let Side = document.getElementById("side");
@@ -56,7 +56,7 @@ function Click(){
 
 window.addEventListener("load",async()=>{
 	try{
-		let Response = await fetch(`https://fireyauto.github.io/DistrictCascade/scripts/files.json`);
+		let Response = await fetch(`https://raw.githubusercontent.com/FIREYAUTO/DistrictCascade/main/scripts/files.json`);
 			Response = await Response.json();
 		for(let Item of Response){
 			let [Name,Link] = Item;

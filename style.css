@@ -154,12 +154,12 @@ h1,h2,h3 {
 	margin-bottom:5px;
 }
 
-#side>a {
-	color: var(--light-main-color);
-	text-decoration:none;
-	-webkit-user-select: none;
-	-ms-user-select: none;
-	user-select: none;
+#side>a,#side>a:visited,#side>a:focus,.side-a {
+	color: var(--light-main-color)!important;
+	text-decoration:none!important;
+	-webkit-user-select: none!important;
+	-ms-user-select: none!important;
+	user-select: none!important;
 }
 
 #side {
