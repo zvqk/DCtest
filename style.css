@@ -109,6 +109,10 @@ h1,h2,h3 {
 	transition: border 0.25s, background 0.25s;
 }
 
+.current-link {
+	background: var(--light-main-color) !important;
+}
+
 /* CONTENT */
 
 #content {

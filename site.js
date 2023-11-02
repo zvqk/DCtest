@@ -11,14 +11,17 @@ function OnLoad(){
 	let LinksElement = document.getElementById("links"),
 		Links = {
 		"Home": "index.html",
-		"Wiki": "index.html",
+		"Wiki": "wiki.html",
 		"Custom Maps API": "index.html",
 	};
+	let PathName = window.location.pathname.split("/").pop();
 	for(let Name in Links){
 		let Value = Links[Name];
 		let Element = document.createElement("a")
 		Element.href = Value;
 		Element.innerHTML = Name;
+		if(PathName==Value)
+			Element.classList.add("current-link");
 		LinksElement.appendChild(Element);
 	}
 	//{{ Replacements }}\\
@@ -34,4 +37,4 @@ function OnLoad(){
 	*/
 }
 
-window.onload = OnLoad;
+window.addEventListener("load",OnLoad);
