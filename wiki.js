@@ -1,4 +1,5 @@
 const List = document.getElementById("list");
+const Files = {};
 
 const WhitespaceTags = ["PRE","H1","H2","H3","H4","H5","H6","LI"];
 
@@ -19,6 +20,7 @@ async function CheckHash(){
 	try{
 		let Response = await fetch(`https://raw.githubusercontent.com/FIREYAUTO/DistrictCascade/main/wikipages/${Hash}.txt`);
 		Response = await Response.text();
+		Response = `# ${Files[Hash]||"Title"}\n${Response}`;
 		if(window.WikiParse){
 			let Side = document.getElementById("side");
 			Side.innerHTML = window.WikiParse(Response);
@@ -30,7 +32,7 @@ async function CheckHash(){
 	}
 	ClearActiveWikis();
 	for(let C of List.childNodes)
-		if(C.href.match(new RegExp(`${RHash}$`,""))){AddActiveWiki(C);break}
+		if(C.href&&C.href.match(new RegExp(`${RHash}$`,""))){AddActiveWiki(C);break}
 }
 
 function AddActiveWiki(E){
@@ -64,6 +66,7 @@ window.addEventListener("load",async()=>{
 				Element = document.createElement("a");
 				Element.href = `#${Link}`;
 				Element.innerHTML = Name;
+				Files[Link]=Name;
 			}
 			List.appendChild(Element);
 		}

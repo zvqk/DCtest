@@ -1,0 +1,4 @@
+Districts are pre-defined areas of the city, each with its own unique style that sets it apart from the other districts.
+
+## Districts Layout
+{(i:Districts Layout:~:~)images/districtslayout.png}
