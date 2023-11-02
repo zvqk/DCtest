@@ -49,22 +49,23 @@ function ClearActiveWikis(E){
 		else RemoveActiveWiki(C);
 }
 
-function Click(){
-	ClearActiveWikis();
-	AddActiveWiki(this);
-}
-
 window.addEventListener("load",async()=>{
 	try{
 		let Response = await fetch(`https://raw.githubusercontent.com/FIREYAUTO/DistrictCascade/main/scripts/files.json`);
 			Response = await Response.json();
 		for(let Item of Response){
 			let [Name,Link] = Item;
-			let Element = document.createElement("a");
-			Element.href = `#${Link}`;
-			Element.innerHTML = Name;
+			let Element;
+			if(Link===true){
+				Element = document.createElement("span")
+				Element.innerHTML = Name;
+				Element.classList.add("list-category");
+			}else{
+				Element = document.createElement("a");
+				Element.href = `#${Link}`;
+				Element.innerHTML = Name;
+			}
 			List.appendChild(Element);
-			//Element.onclick = Click;
 		}
 	}catch(E){
 		console.error(E);

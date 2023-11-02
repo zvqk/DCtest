@@ -10,6 +10,7 @@
 	--outline-color: #1c5acf;
 	--code-bg-color: #252525;
 	--light-bg-color: #454545;
+	--dark-bg-color: #252525;
 	--lighter-bg-color: #6a6a6a;
 
 	--font: "Nunito", sans-serif;
@@ -134,6 +135,17 @@ h1,h2,h3 {
 	padding-top:10px;
 	padding-bottom:10px;
 	position:absolute;
+}
+
+.list-category {
+	margin-right:10px;
+	margin-left:10px;
+	padding-left:10px;
+	color: var(--main-text-color);
+	display:block;
+	border-radius:4px;
+	background: var(--dark-bg-color);
+	text-decoration:bold;
 }
 
 #list>a {

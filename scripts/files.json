@@ -1,4 +1,51 @@
-[
-	["Home","home"],
+[	["Home","home"],
+
+	["Inventory",true],
+	["Inventory","inventory"],
+	["Trading","trading"],
+
+	["Gear",true],
+	["Gears","gears"],
+	["Gear Skins","gearskins"],
+	["Gear Mods","gearmods"],
+
+	["Map",true],
+	["Districts","districts"],
+	["Spawns","spawns"],
+	["Lost Objects","lostobjects"],
+	["Supply Drops","supplydrops"],
+	["Claimable Generators","generators"],
+	["Shops","shops"],
+	["Altar","altar"],
+	["Event Machine","eventmachine"],
+	["Refinery Machine","refinery"],
+
+	["Gameplay",true],
+	["Tutorials","tutorials"],
+	["Mechanics","mechanics"],
+	["Time-Trials","timetrials"],
+	["Hourly Events","hourlyevents"],
+	["Deliveries","deliveries"],
+	["Daily Quests","dailyquests"],
+	["Strength","strength"],
+	["Session Multplier","sessionmultiplier"],
+	["Perks","perks"],
+
+	["Items",true],
+	["Orbs","orbs"],
+	["XP Boosters","xpboosters"],
+	["Canned Drinks","canneddrinks"],
+	["Equippables","equippables"],
+
+	["Misc.",true],
+	["Groups","groups"],
+	["Badges","badges"],
+	["Gamepasses","gamepasses"],
+	["Chunk Loading","chunkloading"],
+	
+	["Events",true],
+	["Events","events"],
+	["Seasons","seasons"],
+
 	["Test","test"]
 ]
