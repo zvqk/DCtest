@@ -221,7 +221,7 @@ const Matches = [
 	},
 	{
 		name:"SetVariable",
-		match:/(\{sv\:\s*(.+?)\}\s*(.+?)[\r\n]?)/g,
+		match:/(\{sv\:\s*(.+?)\}\s*(.+)[\r\n]?)/g,
 		call:function(_,_,n,v){
 			window.SVars[n]=v;
 			return "";

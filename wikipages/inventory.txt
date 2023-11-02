@@ -1,0 +1,19 @@
+The inventory UI consists of a list of categories, each category containing specific items.
+
+Each inventory category has its own action buttons. Because of this, if a new item were to be made with a specific action that requires a button, a new inventory category would have to be made.
+
+Clicking on items in your inventory would open a bigger ui element on the right, containing more information about the item.
+
+## Inventory Categories
+^ Gear Skins ({(cn:green)TRADEABLE})
+^ Skin Crates ({(cn:green)TRADEABLE})
+^ Junk ({(cn:green)TRADEABLE})
+^ Trophies
+^ XP Boosters ({(cn:green)TRADEABLE})
+^ Notes
+^ Drinks
+^ Gears
+^ Generator Shields ({(cn:green)TRADEABLE})
+^ Tickets ({(cn:green)TRADEABLE})
+^ Gear Mods
+^ Equippables
