@@ -162,7 +162,14 @@ const Matches = [
 		name:"TimeStamp",
 		match:/(\{\(ts\)\s*(.*?)\})/g,
 		call:function(_,_,t){
-			return `<span style="border:2px solid #dfdfdf;background:#f5f5f5;padding-left:2px;padding-right:2px;">${t}</span>`;
+			return `<span class="example">${t}</span>`;
+		}
+	},
+	{
+		name:"Tag",
+		match:/(\{\(tag\:\s*([A-Fa-f0-9]{6})\)\s*(.*?)\})/g,
+		call:function(_,_,c,t){
+			return `<span class="tag" style="background:#${c}">${t}</span>`;
 		}
 	},
 	{

@@ -1,0 +1,23 @@
+Seasons are periods of time where the game will allow specific codes to be redeemed, as well as some seasonal map changes.
+
+Seasons are determined based on time and priority. Each season has its own priority, which determines if it overrides other seasons.
+
+## Season Priority
+> {(c:1c7adf)Holiday}: 100
+> {(c:1cdf7a)Event}: 50
+> {(c:7a1cdf)Season}: 0
+
+## Seasons List
+^ July 4th {(ts)July 2nd - 6th} {(tag:1c7adf)Holiday}
+| Includes a different lost object spawn table, exclusive skins, exclusive crate
+^ Halloween {(ts)October} {(tag:1cdf7a)Event}
+| Includes a different lost object spawn table, exclusive skins, exclusive crate
+| Purple skybox
+^ Winter {(ts)December - February} {(tag:7a1cdf)Season}
+| Whitish-Green grass color
+^ Spring {(ts)March - May} {(tag:7a1cdf)Season}
+| Green grass color
+^ Summer {(ts) July - August} {(tag:7a1cdf)Season}
+| Dry-Green grass color
+^ Fall {(ts) September - November} {(tag:7a1cdf)Season}
+| Orangish grass color

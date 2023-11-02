@@ -1,0 +1,10 @@
+Events are special events that are started manually by the owner.
+
+| If you are looking for seasons, which are different from events, please see {{seasons:Seasons}}.
+
+Usually events give a 2x base XP multiplier, which changes the XP gain for just about everything in the game.
+
+## Event List
+^ 100k Event
+^ 500k Event
+^ 1M Event

@@ -220,11 +220,14 @@ h1,h2,h3 {
 	padding-right:2px;
 }
 
+.tag {
+	color: var(--text-color);
+	background: var(--light-bg-color);
+	border-radius:100%;
+	font-size:12px;
+}
+
 img {
 	margin-top:5px;
 	margin-bottom:5px;
 }
-
-/*
-style="border:2px solid #cfcfcf;background:#efefef;padding-left:2px;padding-right:2px;"
-*/
