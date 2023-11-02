@@ -190,7 +190,7 @@ const Matches = [
 		name:"Example",
 		match:/(ex\:\s*(.+))/g,
 		call:function(_,_,x){
-			return `<span style="border:2px solid #cfcfcf;background:#efefef;padding-left:2px;padding-right:2px;">ex: ${x}</span>`;
+			return `<span class="example">Ex: ${x}</span>`;
 		}
 	},
 	{

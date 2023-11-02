@@ -1,0 +1,6 @@
+In District Cascade, a group is basically a party. You can create your own group, and you can invite other players to your group. While players are in your group, you can see where they are and how far they are from you, as well as the district they are currently in.
+
+You can also chat specifically with your group members by using `/group` in chat, as if you were going to chat with a team.
+
+## Group Activities
+{TODO}: This feature is not yet implemented in the game

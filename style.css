@@ -182,6 +182,7 @@ h1,h2,h3 {
 	float:right;
 	right:50px;
 	white-space:pre;
+	text-wrap:wrap;
 }
 
 /* INPUTS */
@@ -211,3 +212,19 @@ h1,h2,h3 {
 .active-wiki {
 	background: var(--light-main-color) !important;
 }
+
+.example {
+	border:2px solid var(--lighter-bg-color);
+	background: var(--light-bg-color);
+	padding-left:2px;
+	padding-right:2px;
+}
+
+img {
+	margin-top:5px;
+	margin-bottom:5px;
+}
+
+/*
+style="border:2px solid #cfcfcf;background:#efefef;padding-left:2px;padding-right:2px;"
+*/
