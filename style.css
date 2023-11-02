@@ -223,8 +223,10 @@ h1,h2,h3 {
 .tag {
 	color: var(--text-color);
 	background: var(--light-bg-color);
-	border-radius:100%;
+	border-radius:12px;
 	font-size:12px;
+	padding-left:4px;
+	padding-right:4px;
 }
 
 img {
