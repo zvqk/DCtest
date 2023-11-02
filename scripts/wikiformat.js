@@ -221,14 +221,14 @@ const Matches = [
 	},
 	{
 		name:"SetVariable",
-		match:/(\{\(sv\:(.+?)\)\s*(.+?)\})/g,
+		match:/(\{sv\:\s*(.+?)\}\s*(.+?)[\r\n]?)/g,
 		call:function(_,_,n,v){
 			window.SVars[n]=v;
 			return "";
 		}
 	},
 	{
-		name:"SetVariable",
+		name:"GetVariable",
 		match:/(\{v\:\s*(.+?)\}[\r\n]*)/g,
 		call:function(_,_,n){
 			return window.SVars[n]||"";
