@@ -4,87 +4,87 @@ In total, there are ~60 spawns in the game at the moment.
 
 ## Spawns
 ### D1 - Main-Square (6)
-| Spawn
-| Downtown
-| Platforms
-| Factory
-| Scary Heights
-| Cliff-Side Tower
+| Spawn (0 XP)
+| Downtown (1000 XP)
+| Platforms (750 XP)
+| Factory (750 XP)
+| Scary Heights (5000 XP)
+| Cliff-Side Tower (15000 XP)
 
 ### D2 - Downtown (5)
-| Central
-| The View
-| Hidden
-| Ridge Tower
-| Cityside
+| Central (2000 XP)
+| The View (4000 XP)
+| Hidden (3500 XP)
+| Ridge Tower (25000 XP)
+| Cityside (5000 XP)
 
 ### D3 - City (4)
-| City High-Rise
-| Slopes
-| The
-| Low Point
+| City High-Rise (6000 XP)
+| Slopes (4000 XP)
+| The (5000 XP)
+| Low Point (4000 XP)
 
 ### D4 - Drop-Off (7)
-| Peak
-| Lowest Point
-| Watch-Guard
-| Neutral
-| Drop
-| Expansive
-| Depths
+| Peak (8000 XP)
+| Lowest Point (5000 XP)
+| Watch-Guard (5000 XP)
+| Neutral (5000 XP)
+| Drop (5000 XP)
+| Expansive (5000 XP)
+| Depths (5000 XP)
 
 ### D5 - Runner (3)
-| Gaps
-| Runner Tower
-| Lost
+| Gaps (2500 XP)
+| Runner Tower (8000 XP)
+| Lost (2000 XP)
 
 ### D6 - Cascade (7)
-| High View
-| Low View
-| The Spire
-| Steep Climb
-| Alpha Tower
-| The Valley
-| Flat
+| High View (5000 XP)
+| Low View (4000 XP)
+| The Spire (4500 XP)
+| Steep Climb (4000 XP)
+| Alpha Tower (50000 XP)
+| The Valley (5000 XP)
+| Flat (5000 XP)
 
 ### D7 - Highrise (6)
-| The Edge
-| Choices
-| The Highrise
-| Skyscrapers
-| Bagel
-| The True Edge
+| The Edge (5000 XP)
+| Choices (4500 XP)
+| The Highrise (20000 XP)
+| Skyscrapers (4000 XP)
+| Bagel (7500 XP)
+| The True Edge (8000 XP)
 
 ### D8 - Neon (3)
-| Anchor Complex
-| Enclosed
-| Rich
+| Anchor Complex (10000 XP)
+| Enclosed (10000 XP)
+| Rich (10000 XP)
 
 ### D9 - Surveillance (1)
-| The CRA
+| The CRA (3500 XP)
 
 ### D10 - Skyline (6)
-| Flux Zone
-| Skyline View
-| Skyline CRA
-| Skyline Tower
-| Economic Zone
-| Green Zone
+| Flux Zone (6000 XP)
+| Skyline View (6000 XP)
+| Skyline CRA (6000 XP)
+| Skyline Tower (6000 XP)
+| Economic Zone (6000 XP)
+| Green Zone (6000 XP)
 
 ### D11 - Ripple (3)
-| Low-Down
-| Rippling
-| Huge Drop
+| Low-Down (6000 XP)
+| Rippling (7000 XP)
+| Huge Drop (6000 XP)
 
 ### D12 - Arch (4)
-| Archway
-| The Lookout
-| Arch-City
-| Archview
+| Archway (6000 XP)
+| The Lookout (8000 XP)
+| Arch-City (6000 XP)
+| Archview (6000 XP)
 
 ### D13 - Scattered (5)
-| Fortress
-| Rooftops
-| Opportunity
-| Rift
-| Outpost Station A
+| Fortress (6000 XP)
+| Rooftops (5000 XP)
+| Opportunity (5500 XP)
+| Rift (6000 XP)
+| Outpost Station A (5000 XP)
