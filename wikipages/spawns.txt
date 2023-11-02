@@ -1,0 +1,90 @@
+Each district has its own set of spawns. You have to unlock spawns by finding them. Unlocking spawns will give you a set amount of XP.
+
+In total, there are ~60 spawns in the game at the moment.
+
+## Spawns
+### D1 - Main-Square (6)
+| Spawn
+| Downtown
+| Platforms
+| Factory
+| Scary Heights
+| Cliff-Side Tower
+
+### D2 - Downtown (5)
+| Central
+| The View
+| Hidden
+| Ridge Tower
+| Cityside
+
+### D3 - City (4)
+| City High-Rise
+| Slopes
+| The
+| Low Point
+
+### D4 - Drop-Off (7)
+| Peak
+| Lowest Point
+| Watch-Guard
+| Neutral
+| Drop
+| Expansive
+| Depths
+
+### D5 - Runner (3)
+| Gaps
+| Runner Tower
+| Lost
+
+### D6 - Cascade (7)
+| High View
+| Low View
+| The Spire
+| Steep Climb
+| Alpha Tower
+| The Valley
+| Flat
+
+### D7 - Highrise (6)
+| The Edge
+| Choices
+| The Highrise
+| Skyscrapers
+| Bagel
+| The True Edge
+
+### D8 - Neon (3)
+| Anchor Complex
+| Enclosed
+| Rich
+
+### D9 - Surveillance (1)
+| The CRA
+
+### D10 - Skyline (6)
+| Flux Zone
+| Skyline View
+| Skyline CRA
+| Skyline Tower
+| Economic Zone
+| Green Zone
+
+### D11 - Ripple (3)
+| Low-Down
+| Rippling
+| Huge Drop
+
+### D12 - Arch (4)
+| Archway
+| The Lookout
+| Arch-City
+| Archview
+
+### D13 - Scattered (5)
+| Fortress
+| Rooftops
+| Opportunity
+| Rift
+| Outpost Station A
