@@ -1,4 +1,10 @@
-Districts are pre-defined areas of the city, each with its own unique style that sets it apart from the other districts.
+{(sv:DM)District Multiplier}
+Districts are pre-defined areas of the city, each with its own unique style that sets it apart from the other districts. Each district has its own color and name, as well as a {v:DM}.
+
+There are 20 districts in total, and currently only D13 and below are completed.
+
+## {v:DM}s
+{v:DM}s will increase the amount of XP you get from game mechanics. The highest {v:DM} is 
 
 ## Districts Layout
 {(i:Districts Layout:~:~)images/districtslayout.png}

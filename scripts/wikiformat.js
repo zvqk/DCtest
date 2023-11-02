@@ -8,6 +8,8 @@ const Colors = {
 	pink:"#df1c9a",
 }
 
+window.FVars = {};
+
 String.prototype.escapeHTML = function(){
 	let v = this.replace(/\&/g,"&amp;");
     v = v.replace(/\</g,"&lt;");
@@ -215,6 +217,21 @@ const Matches = [
 			if(y&&y!="~")
 				extra.push(`height="${y}px"`);
 			return `<img alt="${n}" src="${t}"${extra.join(" ")}></img>`;
+		}
+	},
+	{
+		name:"SetVariable",
+		match:/(\{\(sv\:(.+?)\)\s*(.+?)\})/g,
+		call:function(_,_,n,v){
+			window.SVars[n]=v;
+			return "";
+		}
+	},
+	{
+		name:"SetVariable",
+		match:/(\{v\:\s*(.+?)\}[\r\n]*)/g,
+		call:function(_,_,n){
+			return window.SVars[n]||"";
 		}
 	},
 	{

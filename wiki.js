@@ -12,6 +12,7 @@ function RemoveNewlines(Element){
 }
 
 async function CheckHash(){
+	window.SVars={};
 	let Hash = window.location.hash;
 	let RHash = Hash;
 	if(Hash.length<1)Hash="#home";
@@ -73,7 +74,6 @@ window.addEventListener("load",async()=>{
 	}catch(E){
 		console.error(E);
 	}
-	
 	CheckHash();
 });
 window.addEventListener("hashchange",CheckHash);
