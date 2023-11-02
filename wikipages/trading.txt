@@ -1,0 +1,6 @@
+Trading is apart of the {{inventory:Inventory}} UI. When initiating a trade, the UI that would usually be on the right side of the inventory UI is now 2 boxes, the top box being the other user's trade, and the bottom box being your trade. Clicking on an item in your inventory will add it to your trade UI, and clicking on the item in your trade UI will remove it.
+
+Only specific categories are allowed to be traded, and some items are unable to be traded, even if they are in a tradable inventory category.
+
+## Trade Quality
+You should understand the quality of the trades you are doing. Using the rarity of items, you should be able to determine whether or not a trade is a good deal or a bad deal. Our staff team is not responsible for anything involving trading, so you are expected to be careful.
