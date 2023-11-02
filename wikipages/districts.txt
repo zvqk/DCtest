@@ -4,7 +4,68 @@ Districts are pre-defined areas of the city, each with its own unique style that
 There are 20 districts in total, and currently only D13 and below are completed.
 
 ## {v:DM}s
-{v:DM}s will increase the amount of XP you get from game mechanics. The highest {v:DM} is 
+{v:DM}s will increase the amount of XP you get from game mechanics. The highest {v:DM} is 3x, which is in **D8, Neon**. 
 
-## Districts Layout
+## District Layout
 {(i:Districts Layout:~:~)images/districtslayout.png}
+
+## District List
+### D1 - Main-Square
+| {v:DM} 1x
+
+### D2 - Downtown
+| {v:DM} 1.5x
+
+### D3 - City
+| {v:DM} 1.5x
+
+### D4 - Drop-Off
+| {v:DM} 2x
+
+### D5 - Runner
+| {v:DM} 2x
+
+### D6 - Cascade
+| {v:DM} 2.5x
+
+### D7 - Highrise
+| {v:DM} 2.5x
+
+### D8 - Neon
+| {v:DM} 3x
+
+### D9 - Surveillance
+| {v:DM} 1.5x
+
+### D10 - Skyline
+| {v:DM} 2.5x
+
+### D11 - Ripple
+| {v:DM} 2x
+
+### D12 - Arch
+| {v:DM} 2.5x
+
+### D13 - Scattered
+| {v:DM} 2.5x
+
+### D14 - Fragment
+| {v:DM} 1x
+
+### D15 - Garden
+| {v:DM} 2.5x
+
+### D16 - Fractured
+| {v:DM} 1x
+
+### D17 - Cliff-Side
+| {v:DM} 1x
+
+### D18 - Trenches
+| {v:DM} 1x
+
+### D19 - Dense
+| {v:DM} 1x
+
+### D20 - Limit
+| {v:DM} 1x
