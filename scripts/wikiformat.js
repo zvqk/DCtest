@@ -146,9 +146,9 @@ const Matches = [
 	},
 	{
 		name:"Color",
-		match:/(\{(c\:([A-Fa-f0-9]{2}[A-Fa-f0-9]{2}[A-Fa-f0-9]{2}))\)\s*(.*?)\})/g,
+		match:/(\{\(c\:([A-Fa-f0-9]{6})\)\s*(.*?)\})/g,
 		call:function(_,_,c,t){
-			return ColorText(t,c);
+			return ColorText(t,"#"+c);
 		}
 	},
 	{
