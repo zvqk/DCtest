@@ -5,81 +5,81 @@ Shops are placed in specific locations throughout the map. Every shop has a shop
 | Located in D1
 ### Skin Crates
 ```
-Arm Gear Skin Crate, {price:{cr}:10}
-Leg Gear Skin Crate, {price:{cr}:10}
-Back Gear Skin Crate, {price:{cr}:10}
-Cosmetic Gear Skin Crate, {price:{cr}:10}
-Left Arm Gear Skin Crate, {price:{cr}:10}
+Arm Gear Skin Crate ({rprice:{cr}:10})
+Leg Gear Skin Crate ({rprice:{cr}:10})
+Back Gear Skin Crate ({rprice:{cr}:10})
+Cosmetic Gear Skin Crate ({rprice:{cr}:10})
+Left Arm Gear Skin Crate ({rprice:{cr}:10})
 ```
 ### XP Boosters
 ```
-+0.5x : 15m XP Booster, {price:{cr}:10}
++0.5x : 15m XP Booster ({rprice:{cr}:10})
 ```
 {hr}
 ## Edge Shop
 | Located in D7
 ### Skin Crates
 ```
-Arm Gear Skin Crate, {price:{cr}:10}
-Leg Gear Skin Crate, {price:{cr}:10}
-Back Gear Skin Crate, {price:{cr}:10}
-Cosmetic Gear Skin Crate, {price:{cr}:10}
-Epic Skin Crate, {price:{cr}:25}
-Left Arm Gear Skin Crate, {price:{cr}:10}
+Arm Gear Skin Crate ({rprice:{cr}:10})
+Leg Gear Skin Crate ({rprice:{cr}:10})
+Back Gear Skin Crate ({rprice:{cr}:10})
+Cosmetic Gear Skin Crate ({rprice:{cr}:10})
+Epic Skin Crate ({rprice:{cr}:25})
+Left Arm Gear Skin Crate ({rprice:{cr}:10})
 ```
 ### XP Boosters
 ```
-+0.5x : 15m XP Booster, {price:{cr}:10}
-+0.5x : 1hr XP Booster, {price:{cr}:30}
++0.5x : 15m XP Booster ({rprice:{cr}:10})
++0.5x : 1hr XP Booster ({rprice:{cr}:30})
 ```
 {hr}
 ## Neon Shop
 | Located in D8
 ### Skin Crates
 ```
-Arm Gear Skin Crate, {price:{cr}:10}
-Leg Gear Skin Crate, {price:{cr}:10}
-Back Gear Skin Crate, {price:{cr}:10}
-Cosmetic Gear Skin Crate, {price:{cr}:10}
-Epic Skin Crate, {price:{cr}:25}
-Legendary Skin Crate, {price:{cr}:40}
-Left Arm Gear Skin Crate, {price:{cr}:10}
+Arm Gear Skin Crate ({rprice:{cr}:10})
+Leg Gear Skin Crate ({rprice:{cr}:10})
+Back Gear Skin Crate ({rprice:{cr}:10})
+Cosmetic Gear Skin Crate ({rprice:{cr}:10})
+Epic Skin Crate ({rprice:{cr}:25})
+Legendary Skin Crate ({rprice:{cr}:40})
+Left Arm Gear Skin Crate ({rprice:{cr}:10})
 ```
 ### XP Boosters
 ```
-+0.5x : 15m XP Booster, {price:{cr}:10}
-+0.5x : 1hr XP Booster, {price:{cr}:30}
-+0.5x : 4hr XP Booster, {price:{cr}:100}
++0.5x : 15m XP Booster ({rprice:{cr}:10})
++0.5x : 1hr XP Booster ({rprice:{cr}:30})
++0.5x : 4hr XP Booster ({rprice:{cr}:100})
 ```
 {hr}
 ## Gear Shop
 | Located in D1
 ### Gears
 ```
-XP Bracelet, {price:{cr}:250}
-Combo Bracelet, {price:{cr}:250}
-Shield Bracelet, {price:{cr}:400}
-Weight Pack, {price:{cr}:20}
-Speed Bracelet, {price:{cr}:300}
+XP Bracelet ({rprice:{cr}:250})
+Combo Bracelet ({rprice:{cr}:250})
+Shield Bracelet ({rprice:{cr}:400})
+Weight Pack ({rprice:{cr}:20})
+Speed Bracelet ({rprice:{cr}:300})
 ```
 ### Gear Mods
 ```
-Slinger Insta-Pull, {price:{cr}:30}
-Repellant Redirection, {price:{cr}:30}
-Slinger Pathfinder, {price:{cr}:15}
-Dasher Insta-Dash, {price:{cr}:75}
-Stepper Overcharge, {price:{cr}:75}
-Pulser Boost, {price:{cr}:50}
-Fan Speed-Up, {price:{cr}:5}
-Repellant Reach, {price:{cr}:60}
-Director Fall Helper, {price:{cr}:30}
-Dasher Overcharge, {price:{cr}:100}
-Stepper Absorbtion, {price:{cr}:100}
+Slinger Insta-Pull ({rprice:{cr}:30})
+Repellant Redirection ({rprice:{cr}:30})
+Slinger Pathfinder ({rprice:{cr}:15})
+Dasher Insta-Dash ({rprice:{cr}:75})
+Stepper Overcharge ({rprice:{cr}:75})
+Pulser Boost ({rprice:{cr}:50})
+Fan Speed-Up ({rprice:{cr}:5})
+Repellant Reach ({rprice:{cr}:60})
+Director Fall Helper ({rprice:{cr}:30})
+Dasher Overcharge ({rprice:{cr}:100})
+Stepper Absorbtion ({rprice:{cr}:100})
 ```
 {hr}
 ## Special Shop
 | Located in D13
 ### Equippables
 ```
-Object Locator, {price:{cr}:50}
+Object Locator ({rprice:{cr}:50})
 ```

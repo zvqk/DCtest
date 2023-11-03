@@ -277,6 +277,13 @@ const Matches = [
 		}
 	},
 	{
+		name:"RPrice",
+		match:/(\{rprice\:(.+?)\:(.+?)\})/g,
+		call:function(_,_,c,n){
+			return `${ColorText(n,"#1cdf7a")}<span class="smaller">${c}</span>`;
+		}
+	},
+	{
 		name:"Acronym",
 		match:/(\{ac\:\s*(.+?)\})/g,
 		call:function(_,_,t){
