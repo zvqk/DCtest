@@ -1,5 +1,7 @@
 A technique is a chain of {{mechanics:mechanics}}. Techniques may be used to gain speed, height, or anything in-between
 
+{UNF}
+
 ## List of Techniques
 ### Basic Techniques
 
