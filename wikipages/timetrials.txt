@@ -1,0 +1,353 @@
+A Time-Trial is an interactable object that will have you race against time to reach a specified end point. Each time-trial has a leaderboard displaying the fastest completion times, and you can also watch a plackback of the completion too.
+
+Time-Trials can require gears, but a majority of them don't.
+
+Upon completing a time trial, you will get XP for completing it if you completed it under the max time of the time-trial; the formula is listed below:
+```
+XP = lerp(RewardXP,MaxRewardXP,1-percent(CompletionTime,0,MaxTime))
+M = XPBoostMultiplier
+if OwnsVIP then
+	M += 0.5
+end
+if IsWeekend then
+	M += 0.25
+end
+if IsPremiumUser then
+	M += 0.25
+end
+XP *= max((Level/40)+M,1)
+if Time > MaxTime then
+	XP = 0
+end
+FinalXP = floor(XP)
+```
+
+{sv:Easy} {(c:1ccf5a)Easy}
+{sv:Intermediate} {(c:fccd1c)Intermediate}
+{sv:Hard} {(c:df1c4a)Hard}
+{sv:Challenging} {(c:6a1c2a)Challenging}
+{sv:Elite} {(c:1cff7a)Elite}
+
+## List of Time-Trial Difficulties
+^ {v:Easy}
+^ {v:Intermediate}
+^ {v:Hard}
+^ {v:Challenging}
+^ {v:Elite}
+
+## List of Time-Trials
+### Downtown Dash ({v:Easy})
+| XP: 10 - 100
+| Time: 15s
+
+### Going Up ({v:Intermediate})
+| XP: 30 - 300
+| Time: 30s
+
+### Speed-Demon ({v:Hard})
+| XP: 60 - 500
+| Time: 20s
+
+### Slow and Steady ({v:Easy})
+| XP: 10 - 100
+| Time: 20s
+
+### For the Beginners ({v:Intermediate})
+| XP: 30 - 300
+| Time: 40s
+
+### Slope Steppers ({v:Intermediate})
+| XP: 30 - 300
+| Time: 30s
+
+### Late For Work ({v:Hard})
+| XP: 90 - 900
+| Time: 40s
+| Required Gear: **RopeSlinger**
+
+### Swingin' Around ({v:Intermediate})
+| XP: 30 - 300
+| Time: 30s
+| Required Gear: **RopeSwinger**
+
+### Small Town Small World ({v:Easy})
+| XP: 10 - 100
+| Time: 25s
+
+### BHop ({v:Intermediate})
+| XP: 30 - 300
+| Time: 40s
+
+### The Flow ({v:Hard})
+| XP: 60 - 500
+| Time: 20s
+
+### Flat-Tops ({v:Intermediate})
+| XP: 30 - 300
+| Time: 40s
+
+### Cross The Complex ({v:Easy})
+| XP: 20 - 200
+| Time: 40s
+
+### Side-Liner ({v:Intermediate})
+| XP: 30 - 300
+| Time: 30s
+
+### Speed-Hops ({v:Hard})
+| XP: 50 - 500
+| Time: 30s
+
+### Grand Climb ({v:Intermediate})
+| XP: 40 - 400
+| Time: 40s
+| Required Gear: **Claws**
+
+### Swing Across ({v:Hard})
+| XP: 100 - 700
+| Time: 45s
+| Required Gear: **RopeSwinger**
+
+### A Dash ({v:Hard})
+| XP: 130 - 1300
+| Time: 40s
+| Required Gear: **Dasher**
+
+### High-Climb ({v:Easy})
+| XP: 20 - 200
+| Time: 20s
+| Required Gear: **Claws**
+
+### Repel ({v:Intermediate})
+| XP: 45 - 450
+| Time: 35s
+| Required Gear: **RepellantLauncher**
+
+### Across ({v:Challenging})
+| XP: 100 - 1000
+| Time: 90s
+| Required Gear: **Fins**
+
+### Higher-Climb ({v:Easy})
+| XP: 40 - 300
+| Time: 35s
+| Required Gear: **Claws**
+
+### Prototyping ({v:Intermediate})
+| XP: 50 - 500
+| Time: 30s
+| Required Gear: **Dasher**
+
+### Highest-Climb ({v:Hard})
+| XP: 70 - 700
+| Time: 40s
+| Required Gear: **Claws**
+
+### Surrounded ({v:Hard})
+| XP: 80 - 800
+| Time: 40s
+
+### Straight Across ({v:Hard})
+| XP: 100 - 1000
+| Time: 20s
+| Required Gear: **ControlPlate**
+
+### Simple Stretch ({v:Intermediate})
+| XP: 30 - 300
+| Time: 50s
+
+### Cross The Boundary ({v:Intermediate})
+| XP: 30 - 300
+| Time: 20s
+
+### Down And Up ({v:Intermediate})
+| XP: 30 - 300
+| Time: 20s
+
+### Running ({v:Hard})
+| XP: 70 - 700
+| Time: 50s
+
+### Simple Flow ({v:Intermiedate})
+| XP: 35 - 350
+| Time: 30s
+
+### Long Dash ({v:Hard})
+| XP: 90 - 900
+| Time: 45s
+| Required Gear: **Dasher**
+
+### Cross The Valley ({v:Hard})
+| XP: 90 - 900
+| Time: 50s
+
+### Mountaineering ({v:Challenging})
+| XP: 300 - 1000
+| Time: 70s
+
+### Simple Climb ({v:Intermediate})
+| XP: 45 - 450
+| Time: 35s
+
+### Threshold ({v:Intermediate})
+| XP: 45 - 450
+| Time: 35s
+
+### Canyon Rush ({v:Hard})
+| XP: 100 - 1000
+| Time: 40s
+
+### Dropdown ({v:Intermediate})
+| XP: 40 - 400
+| Time: 40s
+
+### To The Hotel ({v:Hard})
+| XP: 60 - 600
+| Time: 40s
+
+### Complicated Crossing ({v:Hard})
+| XP: 80 - 800
+| Time: 50s
+
+### Backwards Compatibility ({v:Hard})
+| XP: 100 - 1000
+| Time: 50s
+
+### Being Watched ({v:Intermediate})
+| XP: 40 - 400
+| Time: 35s
+
+### City Swing ({v:Hard})
+| XP: 100 - 700
+| Time: 55s
+| Required Gear: **RopeSwinger**
+
+### What ({v:Easy})
+| XP: 10 - 100
+| Time: 15s
+
+### Idk ({v:Hard})
+| XP: 100 - 1000
+| Time: 50s
+
+### Gotta Go ({v:Intermediate})
+| XP: 30 - 300
+| Time: 40s
+
+### Staircase ({v:Intermediate})
+| XP: 40 - 400
+| Time: 50s
+
+### Flux Zone ({v:Intermediate})
+| XP: 30 - 300
+| Time: 30s
+
+### Economic Hops ({v:Intermediate})
+| XP: 30 - 300
+| Time: 30s
+
+### Escape The Green Zone ({v:Hard})
+| XP: 50 - 500
+| Time: 50s
+
+### Speed Required ({v:Hard})
+| XP: 50 - 500
+| Time: 30s
+
+### Corner Cutter ({v:Hard})
+| XP: 60 - 600
+| Time: 45s
+
+### Adventurous  ({v:Intermeidiate})
+| XP: 30 - 300
+| Time: 40s
+
+### Path-Shaper ({v:Hard})
+| XP: 50 - 500
+| Time: 30s
+
+### Traceur Dream ({v:Challenging})
+| XP: 100 - 1000
+| Time: 30s
+
+### Unequal Terrain ({v:Intermediate})
+| XP: 20 - 200
+| Time: 30s
+
+### Imminent Wall ({v:Hard})
+| XP: 40 - 400
+| Time: 30s
+
+### Leap of Faith ({v:Hard})
+| XP: 40 - 400
+| Time: 20s
+
+### Cross ({v:Challenging})
+| XP: 50 - 500
+| Time: 30s
+
+### Chaotic Neutral ({v:Hard})
+| XP: 35 - 350
+| Time: 20s
+| Required Gear: **Dasher**
+
+### Technique Required ({v:Hard})
+| XP: 30 - 300
+| Time: 25s
+| Required Gear: **RopeSlinger**
+
+### Swing-Along ({v:Hard})
+| XP: 30 - 300
+| Time: 30s
+| Required Gear: **RopeSwinger**
+
+### Repelled ({v:Hard})
+| XP: 30 - 300
+| Time: 30s
+| Required Gear: **RepellantLauncher**
+
+### Sidelines ({v:Hard})
+| XP: 30 - 300
+| Time: 30s
+
+### Gap-Cross ({v:Hard})
+| XP: 40 - 400
+| Time: 25s
+
+### Climb High ({v:Hard})
+| XP: 40 - 400
+| Time: 45s
+| Required Gear: **Claws**
+
+### Longshot ({v:Hard})
+| XP: 40 - 400
+| Time: 45s
+
+### Avenue Crossing ({v:Intermediate})
+| XP: 20 - 200
+| Time: 30s
+
+### Short-Distance ({v:Intermediate})
+| XP: 20 - 200
+| Time: 30s
+
+### To The Fortress ({v:Hard})
+| XP: 40 - 400
+| Time: 30s
+
+### Weighted-Run ({v:Hard})
+| XP: 60 - 600
+| Time: 50s
+| Required Gear: **WeightPack**
+
+### Rebound ({v:Hard})
+| XP: 40 - 400
+| Time: 30s
+
+### Work-Around ({v:Hard})
+| XP: 40 - 400
+| Time: 40s
+
+### The Elite Trial ({v:Elite})
+| XP: 100 - 2000
+| Time: 60s
