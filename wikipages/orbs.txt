@@ -1,0 +1,7 @@
+Orbs are items that appear in the `Junk` inventory category. Although, the category they are in is far from what they are.
+
+Orbs are able to be used at the {{altar:altar}}.
+
+## Glitch Orb
+The glitch orb is a special orb that requires you to max out your {{glitch:glitch}} stat.
+Using this orb at the altar will give you a {{perk:perk}} of +0.15x move XP.

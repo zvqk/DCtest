@@ -8,6 +8,18 @@ const Colors = {
 	pink:"#df1c9a",
 }
 
+const RarityColors = {
+	Common: "#ffffff",
+	Uncommon: "#3fb929",
+	Rare: "#437fe7",
+	Epic: "#7938da",
+	Legendary: "#ffd747",
+	Mythical: "#ff1c4a",
+	Exotic: "#cf55ff",
+	Exclusive: "#ff63ea",
+	VIP: "#ffaa3c",
+}
+
 window.FVars = {};
 
 String.prototype.escapeHTML = function(){
@@ -288,6 +300,13 @@ const Matches = [
 		match:/(\^\s(.+))/g,
 		call:function(_,_,x){
 			return `<li>${x}</li>`;
+		}
+	},
+	{
+		name:"RarityColor",
+		match:/(\{rc\:\s*(.+?)\})/g,
+		call:function(_,_,n){
+			return ColorText(n,RarityColors[n]||RarityColors.Common);
 		}
 	},
 ];

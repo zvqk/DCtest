@@ -1,0 +1,22 @@
+XP Boosters are usable items that appear in their own category in your inventory.
+
+Using an XP Booster will give you a XP Boost of the specified multiplier for the specified amount of time.
+
+You cannot stack the effects of an XP Booster, as it will ask you if you would like to override one that's already in use.
+
+XP Boosters boost the XP gain of the following:
+^ {{mechanics::Moves}}
+^ {{generators:Generators}}
+^ {{lostobjects:Lost Objects}}
+^ {{timetrials:Time-Trials}}
+^ {{deliveries:Deliveries}}
+^ {{supplydrops:Supply Drops}}
+
+## Items
+```
++0.5x : 15m XP Booster ({rc:Rare})
++0.5x : 1hr XP Booster ({rc:Legendary})
++0.5x : 4hr XP Booster ({rc:Mythical})
++1x : 15m XP Booster ({rc:Legendary})
++1x : 1hr XP Booster ({rc:Mythical})
+```

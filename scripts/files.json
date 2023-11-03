@@ -3,6 +3,7 @@
 	["Inventory",true],
 	["Inventory","inventory"],
 	["Trading","trading"],
+	["Item Rarities","rarities"],
 
 	["Gear",true],
 	["Gears","gears"],
@@ -40,6 +41,7 @@
 	["Canned Drinks","canneddrinks"],
 	["Equippables","equippables"],
 	["Notes","notes"],
+	["Skin Crates","skincrates"],
 
 	["Stats",true],
 	["Leveling","leveling"],
