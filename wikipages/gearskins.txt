@@ -1,0 +1,642 @@
+Gear Skins are equippable inventory items that will change the look of a given gear.
+
+# List of Gear Skins
+## Dasher
+```
+Dasher X02 ({rc:Uncommon})
+OG Dasher ({rc:Epic})
+Golden Dasher ({rc:VIP})
+Dasher X03 ({rc:Rare})
+Dasher X04 ({rc:Epic})
+Alpha Dasher ({rc:Exclusive})
+Fractured Arch ({rc:Mythical})
+| Designers: @SherismaTheSergal
+Dasher X05 ({rc:Rare})
+4th of July Dasher ({rc:Common})
+| Season: July4th
+Firey's Dasher ({rc:Exotic})
+| Description: Great for impersonating the owner!
+Cherry Blossom Highflyer ({rc:Mythical})
+| Description: Who planted Cherry Blossom seeds in this dasher?
+| Designers: @adamekcz1122
+Balloon Dasher ({rc:Epic})
+| Description: Uses helium extracted from the balloons to dash you forward!
+| Season: 1MEvent
+| Designers: @adamekcz1122
+Glitch Dasher ({rc:Exclusive})
+| Description: Glitched, but it somehow still works
+```
+{hr}
+## Magnetizer
+```
+Gold Magnetizer ({rc:Uncommon})
+Actual Magnet ({rc:Epic})
+True Golden Magnetizer ({rc:Epic})
+Crystalizer ({rc:Mythical})
+| Description: Oddly satisfying
+Shard Diffractor ({rc:Legendary})
+| Designers: @35DEIVAI
+```
+{hr}
+## Rope Swinger
+```
+Golden Rope Swinger ({rc:Rare})
+8-Bit Swinger ({rc:Legendary})
+| Description: Well, I suppose this comes from my old console!
+| Designers: @SherismaTheSergal
+Ghost Swinger ({rc:Mythical})
+```
+{hr}
+## Rope Slinger
+```
+Red White & Blue Rope Slinger ({rc:Common})
+| Season: July4th
+Tri Slinger ({rc:Mythical})
+Golden Rope Slinger ({rc:Rare})
+Charred Rope Slinger ({rc:Uncommon})
+Bloody's Slinger ({rc:Mythical})
+| Description: Great for impersonating friends!
+| Designers: @bloodied_net
+All-Metal Rope Slinger ({rc:Common})
+Dove's Wip ({rc:Legendary})
+| Description: One of the many rare golden dove artifacts, it gives the wearer the wonderful ability to throw the marvelous golden wip of the golden dove
+| Designers: @pigeon_pogi
+Object Manipulator ({rc:Exotic})
+| Description: This gear can move physics object, AMAZING TECHNOLOGY! I wonder what Sherisma was inspired by...
+| Designers: @SherismaTheSergal
+Neptune's Paw ({rc:Mythical})
+| Description: Water.
+| Designers: @Rainyyz & @FIREYAUTO
+```
+{hr}
+## Charge Gauntlet
+```
+Red Charge Gauntlet ({rc:Common})
+Green Charge Gauntlet ({rc:Common})
+Blue Charge Gauntlet ({rc:Common})
+Golden Charge Gauntlet ({rc:Uncommon})
+Refractured ({rc:Exotic})
+| Description: Exclusivity to Sherisma's Birthday Event!
+| Designers: @SherismaTheSergal
+Restructured ({rc:Exotic})
+| Description: This prototype was found in D10, It seems to be an alternative to the 'Charge Gauntlet'.\n Exclusivity to Sherisma's Birthday Event!
+| Designers: @SherismaTheSergal
+```
+{hr}
+## Claws
+```
+Golden Claws ({rc:Epic})
+Charred Claws ({rc:Uncommon})
+Lunar Claws ({rc:Legendary})
+| Designers: @VioletTrap87
+Solar Claws ({rc:Legendary})
+| Designers: @VioletTrap87
+Aquatic Claws ({rc:Legendary})
+Downpour Claws ({rc:Legendary})
+| Designers: @Rainyyz
+Dual Crowbars ({rc:Epic})
+| Designers: @35DEIVAI
+Hard-Light Claws ({rc:Legendary})
+| Description: A set of custom-made hard-light claws replicating those of a local internet influencer
+| Designers: @mom0367
+Red White & Blue Claws ({rc:Common})
+| Season: July4th
+M-TIS ({rc:Exclusive})
+| Description: These claws seem to come from a different world, can slash through most objects. Be careful
+Veteran Claws ({rc:Common})
+| Description: 🔥🔥 this skin so fire & rare 🔥🔥
+Mantis Claws ({rc:Legendary})
+| Description: Claws carved from bone. Allows the wearer to cling to walls and leap off them.
+| Designers: @adamekcz1122
+```
+{hr}
+## Time Dilator
+```
+Golden Time Dilator ({rc:Uncommon})
+Charred Time Dilator ({rc:Uncommon})
+Shock-Tube Dilator ({rc:Legendary})
+```
+{hr}
+## Repellant Launcher
+```
+Golden Repellant Launcher ({rc:Rare})
+Red Repellant Launcher ({rc:Uncommon})
+Purple Repellant Launcher ({rc:Uncommon})
+Green Repellant Launcher ({rc:Uncommon})
+Cataclysmic Launcher ({rc:Mythical})
+| Description: Might explode... Might send you to the sky...
+| Designers: @35DEIVAI
+Repellant Launcher V2 ({rc:Exclusive})
+| Description: Sorry about v0.75
+Red White & Blue Repellant Launcher ({rc:Common})
+| Season: July4th
+Firework Launcher ({rc:Epic})
+| Description: Make the skies glow with light. You can also fly around!
+| Season: July4th
+| Designers: @PandaBoy4067
+Cannon ({rc:Epic})
+| Description: A large, heavy piece of artillery, typically mounted on wheels, formerly used in warfare
+| Designers: @rebrikSK12570
+Confetti Launcher ({rc:Rare})
+| Description: WARNING: Do NOT point at people around you!
+| Season: 1MEvent
+| Designers: @adamekcz1122
+```
+{hr}
+## Turbines
+```
+Venom Extenders ({rc:Legendary})
+| Description: Prototype extenders meant for extending the Venom Core. Powered by a substance trademarked as Venom. Created by and stolen from Anud Inc
+| Designers: @TheDa_nu
+```
+{hr}
+## Exo-Grips
+```
+Golden Exo-Grips ({rc:Rare})
+Mechanical Arms ({rc:Exclusive})
+| Description: Congrats! Only one user has this skin
+```
+{hr}
+## Zipline Thrower
+```
+Golden Zipline Thrower ({rc:Rare})
+```
+{hr}
+## Shield Field
+```
+Futuristic Shield ({rc:Legendary})
+| Designers: @35DEIVAI
+Golden Shield Field ({rc:Rare})
+```
+{hr}
+## Supersonic Gauntlet
+```
+Golden Supersonic Gauntlet ({rc:Rare})
+Red Supersonic Gauntlet ({rc:Uncommon})
+Green Supersonic Gauntlet ({rc:Uncommon})
+Purple Supersonic Gauntlet ({rc:Uncommon})
+Fighting Gloves ({rc:Legendary})
+| Description: We got these from some guy fighting on a street.
+| Designers: @bloodied_net
+God's Fist ({rc:Mythical})
+| Description: This holds immense amount of power...
+| Designers: @35DEIVAI
+```
+{hr}
+## Wall Bouncer
+```
+Red Spring ({rc:Epic})
+| Description: BOING
+| Designers: @adamekcz1122
+District Bouncer ({rc:Common})
+| Description: Wield the power of District Cascade
+| Season: 1MEvent
+```
+{hr}
+## Dasher Enhancer
+```
+Dasher Enhancer X02 ({rc:Uncommon})
+Dasher Enhancer X03 ({rc:Rare})
+Dasher Enhancer X04 ({rc:Epic})
+Triple A Battery Enhancer ({rc:Epic})
+| Designers: @35DEIVAI
+Dasher Enhancer X05 ({rc:Rare})
+Cherry Blossom Garden ({rc:Legendary})
+| Description: A very pretty garden to power your very pretty dasher!
+| Designers: @adamekcz1122
+```
+{hr}
+## Fins
+```
+OG Fins ({rc:Legendary})
+Golden Fins ({rc:Rare})
+Fractured Virtue ({rc:Mythical})
+| Designers: @SherismaTheSergal
+Venom Core ({rc:Legendary})
+| Description: Prototype core meant for gliding. Core is powered by a substance trademarked as Venom. Created by and stolen from Anud Inc.
+| Designers: @TheDa_nu
+Air Slicers ({rc:Rare})
+| Description: Fly far, my friend!
+| Season: 1MEvent
+```
+{hr}
+## Control Plate
+```
+Purple Control Plate ({rc:Common})
+Blue Control Plate ({rc:Common})
+Green Control Plate ({rc:Common})
+Golden Control Plate ({rc:Uncommon})
+All-Natural Control Plate ({rc:Epic})
+Control Plate Frame ({rc:Legendary})
+| Designers: @35DEIVAI
+```
+{hr}
+## Springboard Deployer
+```
+Golden Springboard Deployer ({rc:Rare})
+Astral Springboard Deployer ({rc:Epic})
+Cool Springboard Deployer ({rc:Rare})
+```
+{hr}
+## Pad Deployer
+```
+Red Pad Deployer ({rc:Uncommon})
+Purple Pad Deployer ({rc:Uncommon})
+Green Pad Deployer ({rc:Uncommon})
+Plate Deployer ({rc:Legendary})
+| Description: Provided by the Plates Insurance Advisors
+Pad Suitcase ({rc:Epic})
+| Description: Bussinessmen always have a few pads with them
+| Designers: @35DEIVAI
+```
+{hr}
+## Grip Plate
+```
+Golden Grip Plate ({rc:Epic})
+Charred Grip Plate ({rc:Uncommon})
+```
+{hr}
+## Zipline Controller
+```
+Golden Zipline Controller ({rc:Common})
+Safety Harness ({rc:Epic})
+```
+{hr}
+## Velocity Director
+```
+Blue Velocity Director ({rc:Common})
+Green Velocity Director ({rc:Common})
+Red Velocity Director ({rc:Common})
+Golden Velocity Director ({rc:Uncommon})
+Futuristic Velocity Director ({rc:Legendary})
+```
+{hr}
+## Swinger Canisters
+```
+Golden Swinger Canisters ({rc:Rare})
+```
+{hr}
+## Slinger Booster
+```
+Bloody's Turbine ({rc:Legendary})
+| Description: Like a washing machine, but for blood
+| Designers: @bloodied_net
+Golden Slinger Booster ({rc:Rare})
+```
+{hr}
+## Downwards Charger
+```
+Downwards Charger X02 ({rc:Uncommon})
+Golden Downwards Charger ({rc:Rare})
+Conception's Order ({rc:Epic})
+| Description: A prototype found at a D-8 gear facility. It seemed to only have one purpose.
+| Designers: @SherismaTheSergal
+```
+{hr}
+## Anti-Gravity Pulser
+```
+Golden Anti Gravity Pulser ({rc:Rare})
+Red Anti Gravity Pulser ({rc:Uncommon})
+Green Anti Gravity Pulser ({rc:Uncommon})
+Purple Anti Gravity Pulser ({rc:Uncommon})
+Mystical Wings ({rc:Mythical})
+| Description: Magestic wings granted by a mystical pheonix
+| Designers: @SherismaTheSergal & @VioletTrap87
+Red White & Blue Anti Gravity Pulser ({rc:Common})
+| Season: July4th
+Home-Made Jetpack ({rc:Legendary})
+| Description: I mean, I can't complain, it does work. Made with tape, cardboard, and fireworks obviously.
+| Season: July4th
+| Designers: @bloodied_net
+Dove's Blessing ({rc:Legendary})
+| Description: The greatest of the relics, as only the worthy may empower the blessing of the golden dove
+| Designers: @pigeon_pogi
+Tome of a Million ({rc:Rare})
+| Description: "Wow, thats a lot of words, Good thing I'm not reading them." -nuke dukem or something idk
+| Season: 1MEvent
+| Designers: @bloodied_net
+```
+{hr}
+## Pusher
+```
+Golden Pusher ({rc:Rare})
+Futuristic Pusher ({rc:Legendary})
+```
+{hr}
+## Planar Converter
+```
+Golden Planar Converter ({rc:Uncommon})
+God's Planar ({rc:Mythical})
+| Designers: @35DEIVAI
+Disrupt_R ({rc:Exotic})
+| Description: Something about this just seems wrong...
+| Designers: @bloodied_net
+```
+{hr}
+## Induction Thruster
+```
+Golden Induction Thruster ({rc:Rare})
+```
+{hr}
+## Battery Pack
+```
+Red Battery Pack ({rc:Common})
+Golden Battery Pack ({rc:Uncommon})
+```
+{hr}
+## Dasher Battery
+```
+Dasher Battery X02 ({rc:Uncommon})
+Dasher Battery X03 ({rc:Rare})
+Dasher Battery X04 ({rc:Epic})
+Triple A Batteries ({rc:Epic})
+| Designers: @35DEIVAI & @DARKTOBIPIE
+Fractured Delta ({rc:Mythical})
+| Designers: @SherismaTheSergal
+Dasher Battery X05 ({rc:Rare})
+Cherry Blossom Biobattery ({rc:Legendary})
+| Description: A battery powered by a very powerfull cherry blossom!
+| Designers: @adamekcz1122
+```
+{hr}
+## Spring Shoes
+```
+Red Spring Shoes ({rc:Common})
+Green Spring Shoes ({rc:Common})
+Blue Spring Shoes ({rc:Common})
+```
+{hr}
+## Slinger Coil
+```
+Golden Slinger Coil ({rc:Rare})
+Relic Brace ({rc:Epic})
+| Description: An ancient brace found at the deep jungle, it is told that it can empower the dove's wip
+| Designers: @pigeon_pogi
+```
+{hr}
+## Surface Deflector
+```
+Blue Surface Deflector ({rc:Common})
+Green Surface Deflector ({rc:Common})
+Red Surface Deflector ({rc:Common})
+Spring Capsule ({rc:Epic})
+| Description: Boioioioing
+| Designers: @bloodied_net
+```
+{hr}
+## Swinger Pouch
+```
+Golden Swinger Pouch ({rc:Rare})
+```
+{hr}
+## Tail-Fin
+```
+```
+{hr}
+## Field Stepper
+```
+Golden Field Stepper ({rc:Rare})
+Red Field Stepper ({rc:Uncommon})
+Green Field Stepper ({rc:Uncommon})
+Purple Field Stepper ({rc:Uncommon})
+Plank Stepper ({rc:Mythical})
+| Description: Planks?
+| Designers: @SolsticeThatPhoenix
+God's Field ({rc:Mythical})
+| Description: WARNING: Releasing this much power might crush you...
+| Designers: @35DEIVAI
+```
+{hr}
+## Rocket Propeller
+```
+Golden Rocket Propeller ({rc:Rare})
+Super Propeller ({rc:Legendary})
+Bloody's Propeller ({rc:Legendary})
+| Description: Forever slipping on your own blood, fun!
+| Designers: @bloodied_net
+Explosive Mortar ({rc:Legendary})
+| Designers: @35DEIVAI
+Firecracker Mishap ({rc:Epic})
+| Description: Didn't your parents warn you not to play with firecrackers? Apparently the explosions from these firecrackers provide the same propulsion as a high-powered rocket?
+| Season: July4th
+| Designers: @bloodied_net
+```
+{hr}
+## Health Shot
+```
+Golden Health Shot ({rc:Epic})
+Red Health Shot ({rc:Uncommon})
+Blue Health Shot ({rc:Uncommon})
+Purple Health Shot ({rc:Rare})
+```
+{hr}
+## Impact Distributor
+```
+Golden Impact Distributor ({rc:Rare})
+Leg Brace ({rc:Rare})
+| Designers: @SolsticeThatPhoenix & @VioletTrap87
+```
+{hr}
+## Padded Shoes
+```
+Drip Shoes ({rc:Mythical})
+```
+{hr}
+## Leg Spikes
+```
+Golden Leg Spikes ({rc:Epic})
+Charred Leg Spikes ({rc:Uncommon})
+```
+{hr}
+## Height Booster
+```
+Green Height Booster ({rc:Uncommon})
+Blue Height Booster ({rc:Uncommon})
+Purple Height Booster ({rc:Uncommon})
+Golden Height Booster ({rc:Uncommon})
+```
+{hr}
+## Booster
+```
+Red Booster ({rc:Uncommon})
+Green Booster ({rc:Uncommon})
+Blue Booster ({rc:Uncommon})
+Helical Engines ({rc:Legendary})
+| Description: Some advanced looking thruster...
+| Designers: @35DEIVAI
+Devil Pace ({rc:Epic})
+| Description: It's a refrence to something, I just don't remember
+| Designers: @bloodied_net & @Red_Ience
+```
+{hr}
+## Matter Relocator
+```
+Blue Matter Relocator ({rc:Uncommon})
+Red Matter Relocator ({rc:Uncommon})
+Purple Matter Relocator ({rc:Uncommon})
+Golden Matter Relocator ({rc:Rare})
+Forest Man's Camera ({rc:Legendary})
+| Description: "Too fast, too soon" once said the name of the owner of this camera
+| Designers: @pigeon_pogi
+```
+{hr}
+## Adhesive Shoes
+```
+Golden Adhesive Shoes ({rc:Epic})
+```
+{hr}
+## Velocity Slingshot
+```
+God's Capacitor ({rc:Mythical})
+| Description: Can contain immense amount of power at once...
+| Designers: @35DEIVAI
+```
+{hr}
+## Ultra Bar Lights
+```
+Blue Ultra Bar Lights ({rc:Uncommon})
+Red Ultra Bar Lights ({rc:Uncommon})
+Owner Light ({rc:Mythical})
+Green Ultra Bar Lights ({rc:Uncommon})
+Golden Ultra Bar Lights ({rc:VIP})
+Purple Ultra Bar Lights ({rc:Uncommon})
+Lamp Shade ({rc:Epic})
+Blue & White Leg Warmers ({rc:Mythical})
+Pink & White Leg Warmers ({rc:Mythical})
+Red & Black Leg Warmers ({rc:Mythical})
+Yellow Ultra Bar Lights ({rc:Uncommon})
+Pink Ultra Bar Lights ({rc:Uncommon})
+Orange Ultra Bar Lights ({rc:Uncommon})
+Spy Camera ({rc:Legendary})
+| Description: D9 - Surveillance reference!?!?
+| Designers: @35DEIVAI
+Light Beam ({rc:Legendary})
+| Description: Protect yourself at all costs!
+| Designers: @ImaginativeLA
+Microwave ({rc:Epic})
+| Designers: @ElSamur16
+Lava Lamp ({rc:Epic})
+| Description: Contains water and wax!
+| Designers: @adamekcz1122
+Cherry Blossom Tree ({rc:Legendary})
+| Description: A beautiful Cherry Blossom tree to light up the area around you
+| Designers: @adamekcz1122
+1M Party Hat ({rc:Uncommon})
+| Description: WOOOO YEAH!!!! 1 MILLION YEAHHH!1!!
+| Season: 1MEvent
+| Designers: @adamekcz1122
+Yellow & White Leg Warmers ({rc:Mythical})
+Yellow & Black Leg Warmers ({rc:Mythical})
+Haunted Eye ({rc:Legendary})
+| Description: So haunted, it floats.
+| Season: Halloween
+| Designers: @bloodied_net
+A Pumpkin :3 ({rc:Common})
+| Description: This is some silliness :3
+| Season: Halloween
+| Designers: @adamekcz1122
+```
+{hr}
+## Bar Lights
+```
+Red Bar Lights ({rc:Common})
+Blue Bar Lights ({rc:Common})
+Green Bar Lights ({rc:Common})
+Golden Bar Lights ({rc:VIP})
+Purple Bar Lights ({rc:Common})
+Pink Bar Lights ({rc:Common})
+Yellow Bar Lights ({rc:Common})
+Orange Bar Lights ({rc:Common})
+```
+{hr}
+## Crown
+```
+Lost Crown ({rc:Exclusive})
+| Designers: @35DEIVAI
+Rusty Crown ({rc:Exclusive})
+| Description: Its crooked and rusty, even falling apart!
+| Designers: @bloodied_net
+Bronze Crown ({rc:Exclusive})
+| Description: It's nicer than the rusty crown, but you're wearing it wrong
+| Designers: @bloodied_net
+Silver Crown ({rc:Exclusive})
+| Description: Whoever forged this crown did not follow our instructions.
+| Designers: @bloodied_net
+Gold Crown ({rc:Exclusive})
+| Description: The Gold Crown!
+Platinum Crown ({rc:Exclusive})
+| Description: The Platinum Crown! Hey, this looks familiar...
+Jaded Crown ({rc:Exclusive})
+| Description: This crown is HEAVY, thats why you're (technically) not wearing it!
+| Designers: @bloodied_net
+Crimson Crown ({rc:Exclusive})
+| Description: This crown seems to be held together with some form of ichor. It glows with power.
+| Designers: @bloodied_net
+```
+{hr}
+## Flinger
+```
+Cat Flinger ({rc:Rare})
+Gravity Globe ({rc:Legendary})
+| Description: Given to you by the lord of the moon
+| Designers: @PandaBoy4067
+```
+{hr}
+## Combo Bracelet
+```
+Golden Combo Bracelet ({rc:Uncommon})
+Red Combo Bracelet ({rc:Common})
+Blue Combo Bracelet ({rc:Common})
+Purple Combo Bracelet ({rc:Common})
+Combo Drink ({rc:Common})
+| Description: Do not ask me why is the glass closed
+| Season: 1MEvent
+| Designers: @adamekcz1122
+```
+{hr}
+## XP Bracelet
+```
+Golden XP Bracelet ({rc:Uncommon})
+Green XP Bracelet ({rc:Common})
+Blue XP Bracelet ({rc:Common})
+Purple XP Bracelet ({rc:Common})
+Sunburn Bracelet ({rc:Rare})
+| Description: Ouch! This sunburn hurts!
+| Designers: @SherismaTheSergal
+XP Drink ({rc:Common})
+| Description: Do not ask me why is the glass closed
+| Season: 1MEvent
+| Designers: @adamekcz1122
+```
+{hr}
+## Shield Bracelet
+```
+Red Shield Bracelet ({rc:Common})
+Green Shield Bracelet ({rc:Common})
+Purple Shield Bracelet ({rc:Common})
+Golden Shield Bracelet ({rc:Uncommon})
+Bloody Bubble ({rc:Legendary})
+| Description: Somehow, creating a bubble out of your blood reduces fall damage. I guess it makes more sense than a bracelet
+| Designers: @bloodied_net
+Cherry Blossom Bracelet ({rc:Legendary})
+| Description: This blossom is so powerfull, it can absorb half of the damage you recieve!
+| Designers: @adamekcz1122
+Shield Drink ({rc:Common})
+| Description: "Do not ask me why is the glass closed
+| Season: 1MEvent
+| Designers: @adamekcz1122
+```
+{hr}
+## Weight Pack
+```
+Pink & White Arm Warmers ({rc:Legendary})
+Blue & White Arm Warmers ({rc:Legendary})
+Red & Black Arm Warmers ({rc:Legendary})
+Yellow & White Arm Warmers ({rc:Legendary})
+Yellow & Black Arm Warmers ({rc:Legendary})
+```
+{hr}
+## Speed Bracelet
+```
+Golden Speed Bracelet ({rc:Rare})
+```

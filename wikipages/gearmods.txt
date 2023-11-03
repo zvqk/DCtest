@@ -14,7 +14,7 @@ Will allow your slinger to pull you instantly towards a direction
 | Gear: RepellantLauncher (Arm Gear)
 | Description:
 ```
-Will have your repellants redirect velocity  compared to your current velocity
+Will have your repellants redirect velocity compared to your current velocity
 ```
 {hr}
 ## Dasher Insta-Dash ({rc:Legendary})
