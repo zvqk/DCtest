@@ -1,0 +1,37 @@
+Tickets are redeemable items which can give you a random item in the list of items below.
+
+Tickets are obtained via the {{refinery:refinery}}.
+
+## List of Items
+### {rc:Common} (55%)
+```
+10m Generator Shield (1x)
+Arm Gear Skin Crate (1x)
+Back Gear Skin Crate (1x)
+Cosmetic Gear Skin Crate (1x)
+Left Arm Gear Skin Crate (1x)
+Leg Gear Skin Crate (1x)
++0.5x : 15m XP Booster (1x)
+Canned District Cola (10x)
+```
+### {rc:Uncommon} (30%)
+```
+30m Generator Shield (1x)
+Epic Skin Crate (1x)
++0.5x : 1hr XP Booster (1x)
+Canned District Cola (25x)
+```
+### {rc:Rare} (12%)
+```
+1hr Generator Shield (1x)
+Legendary Skin Crate (1x)
++0.5x : 4hr XP Booster (1x)
++1x : 15m XP Booster (1x)
+Canned District Cola (50x)
+```
+### {rc:Epic} (55%)
+```
+Mythical Skin Crate (1x)
++1x : 1hr XP Booster (1x)
+Canned District Cola (100x)
+```
