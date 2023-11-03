@@ -55,10 +55,11 @@
 	["Badges","badges"],
 	["Gamepasses","gamepasses"],
 
-	["Weather & Props",true],
+	["Environment",true],
 	["Weather","weather"],
 	["Chunk Loading","chunkloading"],
 	["Props","props"],
+	["Buildings","buildings"],
 	
 	["Events",true],
 	["Events","events"],

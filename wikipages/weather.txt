@@ -1,0 +1,34 @@
+Weather is dependant on the clouds, and may also be forced depending on the given district, as stated in {{districts:Districts}}.
+
+## Clear
+| Clear weather is the default weather
+
+## Rain
+| Rainy weather happens when the following conditions are met:
+```
+CloudCover >= 0.85
+CloudDensity >= 0.2
+```
+*Rainy weather has a check index of 2*
+^ Rainy weather will change the skybox and atmopshere
+
+## Snow
+| Snowy weather happens when the following conditions are met:
+```
+CloudCover >= 0.85
+CloudDensity >= 0.3
+CloudColor >= 0.75 (Closer to white)
+```
+*Snowy weather has a check index of 1*
+^ Snowy weather will add a layer of snow on top of all loaded buildings
+^ Snowy weather will change the skybox and atmopshere
+
+## Thunder
+| Thunder weather on the other hand is different from all the other types of weather
+Thunder is computed on the server, and can only happen while it's raining. Here is a list of conditions to determine if thunder should happen or not:
+```
+CloudCover >= 0.85
+CloudDensity >= 0.3
+CloudColor < 0.7 (More grayish)
+```
+Thunder is **NOT** its own type of weather, it is just an event that happens on the server to play thunder sounds.
