@@ -1,0 +1,122 @@
+Lost Objects randomly spawn around the map every 1 minute. Lost Object spawns depend on the {{seasons:season}}, and also have a rarity system. The rarity of the actual lost object item is not the same rarity as its spawn rarity.
+
+When claimed, you will recieve the lost object as an item in your inventory, and you will also recieve XP using the provided formula:
+```
+XP = floor(max(500,Level*15))
+M = XPBoostMultiplier
+if OwnsVIP then
+	M += 0.5
+end
+if IsWeekend then
+	M += 0.25
+end
+if IsPremiumUser then
+	M += 0.25
+end
+M += ((Tier-1)/2)
+XP *= 1+M
+```
+As you can see, the higher the tier of the lost object (aka higher spawn rarity), the more XP it will give you.
+
+## List of Lost Object Spawns
+### Default
+#### {rc:Common} (55%)
+```
+District-Cola
+District Orange Soda
+Empty Bottle
+Water Bottle
+```
+#### {rc:Uncommon} (25%)
+```
+Phone
+Note Decrypter
+Gear Upgrade Kit
+```
+#### {rc:Rare} (15%)
+```
+Broken Rope Slinger
+Broken Claws
+Broken Dasher
++0.5x : 15m XP Booster
+10m Generator Shield
+Object Locator
+```
+#### {rc:Legendary} (4%)
+```
+Arm Gear Skin Crate
+Leg Gear Skin Crate
+Back Gear Skin Crate
+Cosmetic Gear Skin Crate
++0.5x : 1hr XP Booster
+Meteorite
++1x : 15m XP Booster
+Left Arm Gear Skin Crate
+30m Generator Shield
+```
+#### {rc:Mythical} (1%)
+```
++0.5x : 4hr XP Booster
++1x : 1hr XP Booster
+1hr Generator Shield
+```
+
+### July4th
+#### {rc:Common} (85%)
+```
+4th of July Skin Crate
+```
+#### {rc:Rare} (15%)
+```
++1x : 15m XP Booster
+```
+
+### 1MEvent
+#### {rc:Common} (65%)
+```
+1M Event Skin Crate
+```
+#### {rc:Uncommon} (20%)
+```
+Note Decrypter
+10m Generator Shield
++0.5x : 15m XP Booster
+```
+#### {rc:Rare} (12%)
+```
+30m Generator Shield
++1x : 15m XP Booster
++0.5x : 1hr XP Booster
+```
+#### {rc:Legendary} (3%)
+```
+1hr Generator Shield
++0.5x : 4hr XP Booster
++1x : 1hr XP Booster
+```
+
+### Halloween
+#### {rc:Common} (65%)
+```
+Halloween Skin Bag
+```
+#### {rc:Uncommon} (20%)
+```
+Note Decrypter
+10m Generator Shield
++0.5x : 15m XP Booster
+Gear Upgrade Kit
+```
+#### {rc:Rare} (12%)
+```
+30m Generator Shield
++1x : 15m XP Booster
++0.5x : 1hr XP Booster
+Object Locator
+```
+#### {rc:Legendary} (3%)
+```
+1hr Generator Shield
++0.5x : 4hr XP Booster
++1x : 1hr XP Booster
+```
