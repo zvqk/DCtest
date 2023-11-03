@@ -1,0 +1,51 @@
+Left Arm Gears do not have a keybind, as they are all passive.
+
+# List of Left Arm Gears
+## Flinger {(tag:df1c4a)Passive}
+| Requires Level <b>100</b>
+| Description:
+```
+NOT INTENDED FOR USE!
+```
+## XP Bracelet {(tag:df1c4a)Passive}
+| Requires "XP Bracelet" Gears
+| Description:
+```
++0.5x XP from moves
+```
+## Combo Bracelet {(tag:1caf7a)Active}
+| Requires "Combo Bracelet" Gears
+| Description:
+```
++0.5x Combo XP
+```
+## Shield Bracelet {(tag:df1c4a)Passive}
+| Requires "Shield Bracelet" Gears
+| Description:
+```
+Halves damage
+```
+## Weight Pack {(tag:df1c4a)Passive}
+| Requires "Weight Pack" Gears
+| Description:
+```
+Decreases the velocity multiplier of most moves
+```
+## Industrial Fan {(tag:df1c4a)Passive}
+| Requires Level <b>50</b>
+| Description:
+```
+NOT INTENDED FOR USE!
+```
+## Reality Randomizer {(tag:df1c4a)Passive}
+| Requires Level <b>75</b>
+| Description:
+```
+NOT INTENDED FOR USE!
+```
+## Speed Bracelet {(tag:df1c4a)Passive}
+| Requires "Speed Bracelet" Gears
+| Description:
+```
+Increases the speed cap
+```

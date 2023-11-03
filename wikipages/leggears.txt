@@ -1,0 +1,141 @@
+Leg Gears use your `Leg Gear` keybind to function.
+
+# List of Leg Gears
+## Health Shot {(tag:1caf7a)Active}
+| Requires Level <b>30</b>
+| Description:
+```
+Heal yourself for 1/2 of your health, quickly
+```
+## Spring Shoes {(tag:df1c4a)Passive}
+| Requires Level <b>12</b>
+| Description:
+```
+Passive gear; will increase the height of jumping based moves, like wall-climb, wall-kick, vault leap, and trampoline landings
+```
+## Rocket Propeller {(tag:df1c4a)Passive}
+| Requires Level <b>45</b>
+| Description:
+```
+Passive gear; increase the speed of specific mechanics like sliding, wall-kicking and wall-running
+```
+## Field Stepper {(tag:1caf7a)Active}
+| Requires Level <b>85</b>
+| Description:
+```
+Using the futuristic technology of another world, harness the ability to create a platform right under your feet
+```
+## Impact Distributor {(tag:df1c4a)Passive}
+| Requires Level <b>22</b>
+| Description:
+```
+Increases the starting height in which you lose combo when taking fall damage and if you take fall damage, you get up quicker
+```
+## Tail-Fin {(tag:df1c4a)Passive}
+| Requires Level <b>110</b>
+| Description:
+```
+Increases the distance fins has
+```
+## Surface Deflector {(tag:1caf7a)Active}
+| Requires Level <b>55</b>
+| Description:
+```
+Deflect all of your horizontal velocity away from the wall this gear is used on!
+```
+## Battery Pack {(tag:df1c4a)Passive}
+| Requires Level <b>40</b>
+| Description:
+```
+Increases the charge/fuel of gears like Charge Gauntlet, Anti-Gravity Pulser, and Time Dilator
+```
+## Swinger Pouch {(tag:df1c4a)Passive}
+| Requires Level <b>65</b>
+| Description:
+```
+Rope Swinger has 5 uses instead of 3
+```
+## Slinger Coil {(tag:df1c4a)Passive}
+| Requires Level <b>80</b>
+| Description:
+```
+Increases the distance Rope Slinger can be fired and gives one more use in the air
+```
+## Leg Spikes {(tag:df1c4a)Passive}
+| Requires Level <b>30</b>
+| Description:
+```
+Gives 2 more uses for Claws and slightly increases Claws height
+```
+## Dasher Battery {(tag:df1c4a)Passive}
+| Requires Level <b>95</b>
+| Description:
+```
+This unique battery is strong enough to power dasher, giving the dasher another charge, also decreases cooldown times too
+```
+## Padded Shoes {(tag:df1c4a)Passive}
+| Requires Level <b>6</b>
+| Description:
+```
+Fall damage? What's that! Negates 10 studs of fall damage
+```
+## Height Booster {(tag:1caf7a)Active}
+| Requires "Booster" Gear & Kit
+| Description:
+```
+When used, you will be given vertical velocity while keeping your current horizontal velocity
+```
+## Zipline Bouncer {(tag:1caf7a)Active}
+| Requires Level <b>55</b>
+| Description:
+```
+Bounce off ziplines created by the Zipline Thrower in the direction you are facing by using the leg gear keybind!
+```
+## Velocity Break {(tag:1caf7a)Active}
+| Requires Level <b>45</b>
+| Description:
+```
+Deaccelerate quickly
+```
+## Matter Relocator {(tag:1caf7a)Active}
+| Requires Level <b>90</b>
+| Description:
+```
+Save your position temporarily, then when used again you will teleport to your saved position, keeping your velocity
+```
+## Adhesive Shoes {(tag:df1c4a)Passive}
+| Requires Level <b>30</b>
+| Description:
+```
+A wise man once said: I just want more wallruns so I can be spiderman more accurately
+```
+## Magnetizer Module: Attract {(tag:1caf7a)Active}
+| Requires Level <b>110</b>
+| Description:
+```
+A modular device which attaches onto the Magnetizer. This device grants Magnetizer the "Attract" mode. Using your Leg-Gear keybind while using the Magnetizer, you will be pulled forwards if fully charged
+```
+## Booster {(tag:1caf7a)Active}
+| Requires Level <b>60</b>
+| Description:
+```
+When used, you will boost forward for a set amount of time, being unable to gain any falling velocity while in the boost
+```
+## Supersonic Canceller {(tag:df1c4a)Passive}
+| Requires Level <b>65</b>
+| Description:
+```
+Supersonic Gauntlet will deal no fall damage with this gear equipped
+```
+## Velocity Slingshot {(tag:1caf7a)Active}
+| Requires "Booster" Gear & Kit
+| Description:
+```
+Holding your leg gear keybind freezes you in-place, and the longer you hold it the more charge you gain. Releasing the key will shoot you in the direction you are facing
+```
+## Bhoppers {(tag:df1c4a)Passive}
+| Requires "SpringShoes" Gear & Kit
+| Description:
+```
+Passive gear; if you turn while jumping/edge-jumping while also holding the correct directional keys you will gain more speed
+```

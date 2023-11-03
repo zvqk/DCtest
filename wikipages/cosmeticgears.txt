@@ -1,0 +1,21 @@
+Cosmetic Gears use your `Cosmetic Gear` keybind to function.
+
+# List of Cosmetic Gears
+## Bar Lights {(tag:1caf7a)Active}
+| Requires Level <b>10</b>
+| Description:
+```
+Lights up the area around you
+```
+## Ultra Bar Lights {(tag:1caf7a)Active}
+| Requires Level <b>25</b>
+| Description:
+```
+Lights up the area around you
+```
+## Crown {(tag:df1c4a)Passive}
+| Requires Level <b>10</b>
+| Description:
+```
+Show off a neat crown, you will unlock more skins with level
+```
