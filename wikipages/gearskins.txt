@@ -389,10 +389,6 @@ Spring Capsule ({rc:Epic})
 Golden Swinger Pouch ({rc:Rare})
 ```
 {hr}
-## Tail-Fin
-```
-```
-{hr}
 ## Field Stepper
 ```
 Golden Field Stepper ({rc:Rare})
