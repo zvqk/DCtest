@@ -1,0 +1,46 @@
+A technique is a chain of {{mechanics:mechanics}}. Techniques may be used to gain speed, height, or anything in-between
+
+## List of Techniques
+### Basic Techniques
+
+^ Catpass Springboard
+> Pressing your `Jump` keybind after performing the **catpass** mechanic.
+
+^ Sliding High-Jump
+> Performing the **high-jump** mechanic while in a slide.
+
+^ Edge-Jump
+> Jumping at an edge.
+
+^ Speed Leap
+> Leaping under 85ms after performing the **edge-jump** mechanic.
+
+^ Dropdown Wall-Kick
+> Performing the **wall-kick** mechanic under 0.6s seconds after a dropdown.
+
+^ Higher Wall-Climb
+> Using your crouch-prepare to wall-climb.
+
+^ Stomach Sliding
+> Using your crouch-prepare to slide.
+
+### Dashes
+
+^ Wall-Dash
+> Wall-Dash is a combination of the following moves (in-order) in quick succession: `Wall-Boost -> Wall-Kick`
+> Coiling while doing this technique will also increase the output velocity of it.
+
+^ Wall-Push Dash
+> If you **wall-push** while above the ground, you will be given downwards velocity, while still having the original horizontal velocity of the wall-push. After this, you'd slide to keep the momentum.
+
+### Drop-Dashes
+
+^ Coiled Double Wall-Boost Drop-Dash
+> Jumping off the edge of something while coiling, and performing two **coiled wall-boost** mechanics, then vaulting.
+
+^ Dropdown Wall-Kick Dash
+> Performing a **dropdown** and then **wall-kicking** and **vaulting** when possible.
+
+^ Dropdown Wall-Kick Wall-Boost Dash
+> Performing the **Dropdown Wall-Kick Dash** technique but you **wall-boost** after the **dropdown wall-kick**.
+> This can be chained with more **wall-boosts** and/or **wall-run-kicks**.
