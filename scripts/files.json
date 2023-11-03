@@ -33,9 +33,6 @@
 	["Hourly Events","hourlyevents"],
 	["Deliveries","deliveries"],
 	["Daily Quests","dailyquests"],
-	["Strength","strength"],
-	["Session Multplier","sessionmultiplier"],
-	["Perks","perks"],
 
 	["Items",true],
 	["Orbs","orbs"],
@@ -44,11 +41,24 @@
 	["Equippables","equippables"],
 	["Notes","notes"],
 
+	["Stats",true],
+	["Leveling","leveling"],
+	["Combo","combo"],
+	["District Credits","currency"],
+	["Glitch","glitch"],
+	["Session Multplier","sessionmultiplier"],
+	["Strength","strength"],
+	["Perks","perks"],
+
 	["Misc.",true],
 	["Groups","groups"],
 	["Badges","badges"],
 	["Gamepasses","gamepasses"],
+
+	["Weather & Props",true],
+	["Weather","weather"],
 	["Chunk Loading","chunkloading"],
+	["Props","props"],
 	
 	["Events",true],
 	["Events","events"],

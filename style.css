@@ -240,6 +240,12 @@ pre,.single-code-block {
 	margin-left:10px;
 }
 
+.smaller {
+	font-size:12px;
+}
+
+/* IMG */
+
 img {
 	margin-top:5px;
 	margin-bottom:5px;

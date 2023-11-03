@@ -3,6 +3,10 @@ Districts are pre-defined areas of the city, each with its own unique style that
 
 There are 20 districts in total, and currently only D13 and below are completed.
 
+Districts are able to have their own forced {{weather:weather}}, and there is a setting that allows you to toggle this.
+
+At night, a random district is selected, and its {v:DM} will increase by +0.5x.
+
 ## {v:DM}s
 {v:DM}s will increase the amount of XP you get from game mechanics. The highest {v:DM} is 3x, which is in **D8, Neon**. 
 

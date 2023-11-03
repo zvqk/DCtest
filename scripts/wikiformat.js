@@ -238,7 +238,7 @@ const Matches = [
 		name:"Price",
 		match:/(\{price\:\s*(.+?)\})/g,
 		call:function(_,_,n){
-			return `Price: ${ColorText(n,"#1caf7a")} robux`;
+			return `Price: ${ColorText(n,"#1cdf7a")} <span class="smaller">robux</span>`;
 		}
 	},
 	{
