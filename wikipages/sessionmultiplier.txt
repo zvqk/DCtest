@@ -1,0 +1,11 @@
+Session Multiplier will increase how much XP you get from performing mechanics.
+
+Every 1 hour, you will get +0.5x Session Multiplier. Although, for every mechanic you perform, you can remove a specific amount of seconds off of the time required to have it increase, as listed below:
+```
+Loss = (1+((ComboLevel-1)/4))
+SessionInterval = max(SessionInterval - Loss, 1800)
+```
+
+If you leave the game, your session multiplier will not reset instantly, and instead it will only reset after 1 hour of not being in the game.
+
+The maximum session multiplier is **5x**.
