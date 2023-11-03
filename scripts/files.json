@@ -28,6 +28,7 @@
 	["Event Machine","eventmachine"],
 	["Refinery Machine","refinery"],
 	["Vending Machines","vendingmachines"],
+	["Security Cameras","securitycameras"],
 
 	["Gameplay",true],
 	["Tutorials","tutorials"],
