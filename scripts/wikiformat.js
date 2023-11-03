@@ -235,6 +235,13 @@ const Matches = [
 		}
 	},
 	{
+		name:"Price",
+		match:/(\{price\:\s*(.+?)\})/g,
+		call:function(_,_,n){
+			return `Price: ${ColorText(n,"#1caf7a")} robux`;
+		}
+	},
+	{
 		name:"Acronym",
 		match:/(\{ac\:\s*(.+?)\})/g,
 		call:function(_,_,t){

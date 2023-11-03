@@ -1,0 +1,40 @@
+### Emote Pack 1
+| {price:15}
+```
+This gamepass allows you to use the following emotes:
+
+/e headspin
+/e spin
+/e vspin
+/e what
+/e limbspin
+```
+
+### Emote Pack 2
+| {price:15}
+```
+This gamepass allows you to use the following emotes:
+
+/e edgesit
+/e edgelay
+/e tiredsit
+/e walllean
+/e lay
+```
+
+### Custom Chat Name Color
+| {price:15}
+```
+In experience you will be able to change your chat name color in the settings!
+```
+
+### VIP
+| {price:100}
+```
+VIP in-experience offers you the following:
+^ VIP Chat-Tag in-game
+^ 1.5x base XP multiplier
+^ 3 Gear Skins
+^ Access to Donor rank commands (There are no donor commands yet!)
+^ Black Chat Bubble
+```
