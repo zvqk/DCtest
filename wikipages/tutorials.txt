@@ -1,0 +1,23 @@
+Tutorials are essential to learning the {{mechanics:mechanics}} in-game. There are `16` total tutorials in-game, with `9` of them being mechanic tutorials, and the rest of them are gear tutorials.
+
+All tutorials except for `Momentum` and `Elite Test` have tutorial sequences. A tutorial sequence will display text on your screen that helps you figure out what to do. Every tutorial sequence has a required amount of moves, and if you fail to fulfill the required amount of moves you have to redo the sequence.
+
+## List of Mechanic Tutorials (In-Order)
+^ Beginner
+^ Intermediate
+^ Extra Abilities
+^ Advanced
+^ Very Advanced
+^ Sophisticated
+^ Elaborate
+^ Momentum
+^ Elite Test
+
+## List of Gear Tutorials
+^ Charge Gauntlet
+^ Claws
+^ Repellant Launcher
+^ Rope Swinger
+^ Rope Slinger
+^ Dasher
+^ Magnetizer
