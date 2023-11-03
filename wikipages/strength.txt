@@ -1,0 +1,20 @@
+Strength is a stat that gives you more **Wall-Climbs** and **Wall-Runs**.
+
+The maximum strength level that gives you anything is `3`.
+
+To gain strength, you must purchase the `Weight Pack` left arm gear from the **Gear Shop in D1**. The Weight Pack is the cheapest gear, with a price of {price:{cr}:20}.
+
+If you perform specific mechanics with  the `Weight Pack` equipped, you will get the following amount of Strength XP:
+```
+StrengthXP += MoveStrengthXP * floor(clamp(ComboLevel/3,1,3))
+```
+The following mechanics will give you Strength XP:
+^ Vaulting
+^ Leaping
+^ Wall-Boost
+^ Coiled Wall-Boost
+^ Wall-Run-Kick
+^ Catpass
+^ Edge-Jump
+^ Sliding Edge-Jump
+^ Higher Edge-Jump
