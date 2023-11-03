@@ -1,0 +1,111 @@
+Notes are items that will help you understand the lore of District Cascade. 
+
+Upon obtaining a note, trying to read it without a **note decrypter** will result in you seeing an **encrypted note**. You are not able to decrypt the raw text from the encrypted note.
+
+## Note Decrypter
+The Note Decryper is found as a lost object. Once in your inventory, you are able to read all the notes you have collected. This item is not consumed upon use.
+
+## Notes
+{(c:df1c4a)SPOILERS BELOW!}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Cade's Introduction Note
+| Located in D1
+```
+I arrived here in this city a couple of days ago. This place seems pretty popular, as there are a lot of tourists. I like the utopian design of the Districts here.
+
+Well, all I can really note is that there is no major ports for transporation, as the roads are compact, and there aren't any highways around. Yeah, this place is fairly contained from the rest of the world it seems, always a positive, especially with what has been happening. That's for another time, things are still developing, so maybe I'll leave a note when it all subsides.
+
+That's all I have to say so far. If you see this, enjoy your stay!
+
+- Cade [6/10/2056]
+```
+
+### Kas's Introduction Note
+| Located in D3
+```
+Got sent here by the A.M.C a couple of weeks back. I was told that this was going to be my permanent home until I could figure out things out. The Administration always had a knack of sending off people to excluded cities like this one. Now that I think about it, this could just be their way of parting someone from the rest of society. But, this city? It seems to have a society of it's own! I already love it here, there are so many places to explore.
+ 
+I've never been good at free-running myself, but I'll get the hang of it eventually. There doesn't seem to be much concern for people running around and jumping between roof-tops, which is pretty bizzare because in most places I've been to it's highly illegal.
+
+Anyways, yeah. I'll leave some more notes eventually, maybe once I find something interesting.
+
+- Kas [10/29/2057]
+```
+
+### Kas's District 1 Note
+| Located in D1
+```
+I've noticed construction markings in the corner District 2, as if they are planning to demolish it. I don't know exactly who's behind this, or the reasoning as to why these markings are here in the first place. The District Administration Council may be to blame, but I can't point fingers just yet.
+
+I've brought this up to Cade already, it could just be another little project that the DAC is planning. We'll have to wait and see I guess.
+
+- Kas [4/15/2063]
+```
+
+### Cade's District 9 Note
+| Located in D9
+```
+I have spent a long time studying the inner workings of this place, but as of recently, the CRA has constructed this new District in the City. I am unsure as to why. 
+
+The presence of the security cameras sends chills down my spine. I still need to talk to Kas about this... it's... unnatural, unlike what the CRA has done in the past. I remember just a couple weeks ago, this place was apart of District 2; and now, just another area being watched by the CRA. 
+
+Are they perhaps hiding something? That's the question I want to answer, but I am lost on where to begin. The CRA is a very secretive corperation. They usually refuse to elaborate on their territorial claims, as well as their business practices. I know something must be up, they wouldn't slap security cameras here for no apparent reason.
+
+- Cade [5/27/2063]
+```
+
+### Kas's District 7 Note
+| Located in D7
+```
+I am trying to investigate something I heard about awhile back, so I'm exploring around the Highrise District in search of what I'm looking for, the buildings are very far apart, and it offers quite the challenge. Although, I've heard reports of a couple runners dying here, mainly due to the exclusivity of buildings and the height alone. It takes a lot of knowledge and safety precautions to travel around here.
+
+I couldn't find anything on my search today, so I'm unsure if this is the right district. Around an hour ago Cade notified me about a potential hideout which is excluded from patrols and monitoring somewhere in District 10. I'd better start heading over there before it's too dark, it's always a terrible idea to try to get down from these heights in the dark of night. One of these days I should setup a zipline in between Highrise District and City District.
+
+Anyways, maybe I'll come back to this district in the near future
+
+- Kas [5/29/2063]
+```
+
+### Cade's District 10 Note
+| Located in D10
+```
+The CRA owns this region of the Skyline District for some reason, I am still unsure as to why they also own an older portion of the Downtown District. Something is definitely up; there is a reason as to why they are leaving security cameras in these areas. 
+
+I would need to form a team of people to get to the bottom of this, so maybe I'll do some looking around to see if I can find a couple more people that are also interested in what's going on.
+
+I heard that a bit more south from here there are no CRA territories, so I'll see if I can find a place to lay low and set up a base of operations of some sort.
+```
+
+### Cade's Runner Base Note
+| Located in D10
+```
+I found a good location to setup a base at. A "Runner Base" if you will. The Flux Zone was a good choice, as it is not monitored by the law enforcement, due to some weird problems with electrical fluctuations, I heard that this zone messes with their equipment. Too bad us runners are uneffected by this!
+
+I managed to get Kas to come over to the Runner Base, I heard she was trying to investigate another subsection of the city, something unrelated the CRA. This city is utopian after all, the local government body is most likely trying to keep everything the way they like it.
+
+Despite the city allowing runners, we are still cautious around patrol or monitoring areas, so we tend to head to areas that get less frequent patrols and whatnot. 
+
+Who knows, maybe in the future the city will reverse their opinions about us. Does this explain why the CRA is claiming territories? I don't know, but it's likely related.
+
+- Cade [5/29/2063]
+```
