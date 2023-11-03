@@ -1,0 +1,3 @@
+The refinery is a machine that allows you to refine broken gears into a gear skin of the broken gear type ({rc:Uncommon} - {rc:Mythical}), or to turn them into {{tickets:tickets}}. It requires `10` broken gears of a specific type.
+
+When refining the broken gears into a skin, it will spit out a model of a fixed version of the broken gear skin. When refining the broken gears into a ticket, it will make the sound of a ticket printing.

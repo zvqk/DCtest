@@ -8,7 +8,7 @@ That formatting forces the answer to always be an integer
 
 When you claim a generator, there is a 5 minute period where nobody else can claim your generator, guaranteeing you 1 XP reward. You can use a {{generatorshields:generator shield}} to protect your generator.
 
-There is 1 generator in every completed {{districts::district}}.
+There is 1 generator in every completed {{districts:district}}.
 
 ## XP Formula
 ```

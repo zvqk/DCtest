@@ -1,0 +1,3 @@
+The machine directly next to the main spawn is the event machine. It will display a countdown, as well as the name of an event. Once the timer reaches 0, the event will begin, and another timer will start counting down. The secondary timer is how long the event will run for.
+
+This machine is only able to be started by the owner of the game, and is used to start events automatically after a specific period of time.
