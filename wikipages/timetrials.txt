@@ -168,7 +168,7 @@ FinalXP = floor(XP)
 | XP: 70 - 700
 | Time: 50s
 
-### Simple Flow ({v:Intermiedate})
+### Simple Flow ({v:Intermediate})
 | XP: 35 - 350
 | Time: 30s
 
