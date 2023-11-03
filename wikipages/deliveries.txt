@@ -1,0 +1,21 @@
+Deliveries are started by interacting with a delivery post. Deliveries will have the player deliver a package to a set location, and will reward the player with {crl} and XP. Deliveries can only be started 5 minutes after completing the last one.
+
+## Delivery XP Formula
+```
+M = XPBoostMultiplier
+if OwnsVIP then
+	M += 0.5
+end
+if IsWeekend then
+	M += 0.25
+end
+if IsPremiumUser then
+	M += 0.25
+end
+XP = floor(Distance*(max(1,Level/25)+M))
+```
+
+## Delivery Post Locations:
+```
+D1, D5, D8, D10
+```

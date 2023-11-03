@@ -13,5 +13,5 @@ Every player will also get {crl} for participating in the race:
 ```
 MinCurrency = 10
 MaxCurrency = 100
-Currency = floor(lerp(MinCurrency,MaxCurrency,1-(Place-1)/Players))
+Currency = floor(lerp(MinCurrency,MaxCurrency,1-((Place-1)/Players)))
 ```
