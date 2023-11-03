@@ -1,0 +1,15 @@
+Supply drops will drop to a random point on the map every 5 minutes. Supply drops will give an assortment of loot, as described below:
+```
+1 Random Gear Skin (Common - Mythical)
+2 Random Lost Objects
+5-8 {crl}
+```
+Supply drops also give XP, given using this formula:
+```
+XP = floor(max(500,Level*15))
+M = XPBoostMultiplier
+XP *= 1+M
+FinalXP = floor(XP)
+```
+
+There is a max of `10` supply drops that can exist at once

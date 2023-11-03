@@ -1,5 +1,7 @@
 Lost Objects randomly spawn around the map every 1 minute. Lost Object spawns depend on the {{seasons:season}}, and also have a rarity system. The rarity of the actual lost object item is not the same rarity as its spawn rarity.
 
+A maximum of `60` lost objects can exist at once.
+
 When claimed, you will recieve the lost object as an item in your inventory, and you will also recieve XP using the provided formula:
 ```
 XP = floor(max(500,Level*15))
