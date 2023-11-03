@@ -26,6 +26,12 @@ A technique is a chain of {{mechanics:mechanics}}. Techniques may be used to gai
 ^ Stomach Sliding
 | Using your crouch-prepare to slide.
 
+^ Fast Dropdown
+| Using your crouch-prepare to dropdown.
+
+^ Speed Dropdown
+| Performing the **dropdown** mechanic with 60+ horizontal velocity.
+
 ### Dashes
 
 ^ Wall-Dash
