@@ -1,0 +1,12 @@
+Generator Shields are used to apply a shield to all of your {{generators:claimed generators}} at once.
+
+When your generator has a shield active, it cannot be claimed for the amount of time the shield you used said.
+
+Before you use a generator shield, make sure that it has been 5 minutes since you claimed your generator, so you maximize the time you get with the shield (Please see {{generators:Claimable Generators}} to understand why).
+
+## Items
+```
+10m Generator Shield ({rc:Rare})
+30m Generator Shield ({rc:Legendary})
+1hr Generator Shield ({rc:Mythical})
+```
