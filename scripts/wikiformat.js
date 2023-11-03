@@ -250,7 +250,7 @@ const Matches = [
 	},
 	{
 		name:"GetVariable",
-		match:/(\{v\:\s*(.+?)\}[\r\n]*)/g,
+		match:/(\{v\:\s*(.+?)\})/g,
 		call:function(_,_,n){
 			return window.SVars[n]||"";
 		}
