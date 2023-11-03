@@ -1,0 +1,72 @@
+Combo is a stat that affects how much XP you get from performing mechanics. The highest combo you can get in-game is a 20x combo.
+
+## How to get Combo?
+| Perform mechanics: A majority of the base mechanics you perform will give you some `ComboXP`.
+| Move faster than 100 studs horizontally: The faster you go, the more `ComboXP` you will get.
+
+*All the code below is just an example to show you how all of the things below are calculated*
+
+## What affects `ComboXP`?
+| Performing mechanics
+```
+M = 0
+if InDistrict then
+	FM = DistrictXPMultiplier
+	if FM then
+		M = FM - 1
+	end
+	if InSpecialNightDistrict then
+		M += 0.5
+	end
+end
+BM = if IsNearRoads then 0.5 else 1
+if MoveHasComboXP then
+	if ComboMomentum >= 1 then
+		M += 0.5
+	end
+	if HasComboBraceletEquipped then
+		M += 0.5
+	end
+	FinalComboXPIncrement = MoveComboXP * (max(1,ComboLevel+M)*BM)
+end
+```
+| Moving faster than 100 studs horizontally: (Imagine this runs every 0.2s)
+```
+M = 2
+if ComboMomentum >= 1 then
+	M += 0.5
+end
+if HasComboBraceletEquipped then
+	M += 0.5
+end
+M += clamp((HorizontalVelocityMagnitude/100)-1,0,1.5) + RecentDistrictMultiplier
+FinalComboXPIncrement = (M*max(1,ComboLevel-1))*0.2
+```
+
+## How can combo be lost?
+| Taking fall damage
+```
+Impact = HasImpactDistributorEquipped
+Max = if Impact then 90 else 75
+if Damage > Max then
+	return ResetCombo()
+end
+if Impact then
+	if Damage < 30 then return end
+	Damage /= 1.5
+end
+ComboLevelLoss = Damage / Max
+```
+| Teleporting to spawns
+| Using the `Fins` back gear
+
+## What is combo health?
+Combo health is a stat that determines whether or not you will start losing your combo. As soon as you lose all your combo health, your combo will drain quickly.
+
+## How do I lose combo health?
+| Staying in the geberal area/line for too long
+| Not performing mechanics within 10 seconds
+| Being near the roads
+
+## What is combo momentum?
+Combo momentum is a stat that will increase your combo xp gain. Your combo momentum will increase as your combo level increases, but if you start losing any bit of combo health, your combo momentum will lower. When your combo momentum is maxed out, you will get +0.5x Combo XP.
