@@ -1,0 +1,56 @@
+`Levels` is a stat that determines a variaty of factors in the game.
+ex: Gears
+ex: XP gain from various things
+
+To level up, you would do various things in-game to gain XP. When you get enough XP, you will level up.
+The blue bar in the top-middle of your screen is your XP bar. That determines how close you are to leveling up.
+
+## Formula
+The leveling formula is designed to make it harder to level up when reaching higher levels.
+```
+Level to MaxXP: floor((((1.6*Level)^2.3)/2)+1000)
+```
+
+## Level Rewards
+Level rewards are unlocked by reaching a specific level. You are can only obtain level rewards once.
+### List
+| **Level 25**
+```
+Rusty Crown Skin
+10{cr}
+```
+| **Level 50**
+```
+Bronze Crown Skin
+20{cr}
+```
+| **Level 75**
+```
+Silver Crown Skin
+30{cr}
+```
+| **Level 100**
+```
+Gold Crown Skin
+40{cr}
+```
+| **Level 125**
+```
+Platinum Crown Skin
+40{cr}
+```
+| **Level 150**
+```
+Lost Crown Skin
+50{cr}
+```
+| **Level 175**
+```
+Jaded Crown Skin
+50{cr}
+```
+| **Level 200**
+```
+Crimson Crown Skin
+50{cr}
+```
