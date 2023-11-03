@@ -1,0 +1,53 @@
+Skin Crates are used to get gear skins. Every non-basic skin crate will have different chance rarities.
+
+## List of Skin Crates
+^ Arm Gear Skin Crate ({rc:Rare})
+| Default {{rarities:Rarities}}
+^ Back Gear Skin Crate ({rc:Rare})
+| Default {{rarities:Rarities}}
+^ Leg Gear Skin Crate ({rc:Rare})
+| Default {{rarities:Rarities}}
+^ Cosmetic Gear Skin Crate ({rc:Rare})
+| Default {{rarities:Rarities}}
+^ Left Arm Gear Skin Crate ({rc:Rare})
+| Default {{rarities:Rarities}}
+^ Epic Skin Crate ({rc:Epic})
+Rarites:
+```
+{rc:Uncommon} (55%)
+{rc:Rare} (25%)
+{rc:Epic} (12%)
+{rc:Legendary} (6%)
+{rc:Mythical} (2%)
+```
+^ Legendary Skin Crate ({rc:Legendary})
+Rarites:
+```
+{rc:Rare} (55%)
+{rc:Epic} (25%)
+{rc:Legendary} (14%)
+{rc:Mythical} (6%)
+```
+^ Mythical Skin Crate ({rc:Mythical})
+Rarites:
+```
+{rc:Epic} (50%)
+{rc:Legendary} (35%)
+{rc:Mythical} (15%)
+```
+^ Exotic Skin Crate ({rc:Exotic})
+Rarites:
+```
+{rc:Legendary} (60%)
+{rc:Mythical} (35%)
+{rc:Exotic} (5%)
+```
+^ 4th of July Skin Crate ({rc:Exclusive})
+| Default {{rarities:Rarities}}
+| Only skins with `July4th` season
+^ 1M Event Skin Crate ({rc:Exclusive})
+| Default {{rarities:Rarities}}
+| Only skins with `1MEvent` season
+^ Halloween Skin Bag ({rc:Exclusive})
+| Default {{rarities:Rarities}}
+| Only skins with `Halloween` season
