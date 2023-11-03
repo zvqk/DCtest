@@ -29,7 +29,7 @@ Legendary Skin Crate (1x)
 +1x : 15m XP Booster (1x)
 Canned District Cola (50x)
 ```
-### {rc:Epic} (55%)
+### {rc:Epic} (3%)
 ```
 Mythical Skin Crate (1x)
 +1x : 1hr XP Booster (1x)

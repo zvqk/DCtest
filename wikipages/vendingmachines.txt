@@ -1,0 +1,3 @@
+Vending Machines are interactable objects that are found in **D8, Neon**. They are used to purchase {{canneddrinks:canned drinks}}.
+
+There is a total of `4` vending machines in the map.
