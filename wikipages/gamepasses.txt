@@ -1,5 +1,5 @@
 ### Emote Pack 1
-| {price:15}
+| {price:15:robux}
 ```
 This gamepass allows you to use the following emotes:
 
@@ -11,7 +11,7 @@ This gamepass allows you to use the following emotes:
 ```
 
 ### Emote Pack 2
-| {price:15}
+| {price:15:robux}
 ```
 This gamepass allows you to use the following emotes:
 
@@ -23,13 +23,13 @@ This gamepass allows you to use the following emotes:
 ```
 
 ### Custom Chat Name Color
-| {price:15}
+| {price:15:robux}
 ```
 In experience you will be able to change your chat name color in the settings!
 ```
 
 ### VIP
-| {price:100}
+| {price:100:robux}
 ```
 VIP in-experience offers you the following:
 ^ VIP Chat-Tag in-game

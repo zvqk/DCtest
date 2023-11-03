@@ -26,6 +26,7 @@
 	["Altar","altar"],
 	["Event Machine","eventmachine"],
 	["Refinery Machine","refinery"],
+	["Vending Machines","vendingmachines"],
 
 	["Gameplay",true],
 	["Tutorials","tutorials"],
