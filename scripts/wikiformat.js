@@ -249,7 +249,7 @@ const Matches = [
 	{
 		name:"Price",
 		match:/(\{price\:(.+?)\:(.+?)\})/g,
-		call:function(_,_,n,c){
+		call:function(_,_,c,n){
 			return `Price: ${ColorText(n,"#1cdf7a")} <span class="smaller">${c}</span>`;
 		}
 	},

@@ -1,0 +1,6 @@
+Equippables are items that allow you to perform special actions. Different from gears, you can only have 1 equippable at a time, and you press your `Use Equippable` keybind to use your currently equipped equippable.
+
+## List of Equippables
+^ Object Locator
+| The Object Locator will pulse out 3 tones, the faster the tones, the closer you are to a lost object. If the tones are higher pitch than usual, that means a lost object is within the bounds of your screen.
+| This equippable can be found as a lost object or purchased from the **D13 special shop**.

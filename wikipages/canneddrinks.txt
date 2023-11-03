@@ -2,6 +2,8 @@ Canned Drinks are obtained by purchasing them from {{vendingmachines:Vending Mac
 
 The effects of canned drinks are ended upon starting a time trial.
 
+If you want to use a canned drink quickly, it requires you to bind a given inventory item to your `Use Drink` keybind, which should be a button in the inventory item after clicking on it.
+
 ## List of Canned Drinks
 ^ Canned District Cola
 | Using this canned drink will increase your WalkSpeed from `26` to `34` for 30 seconds. Dying does not remove the effect.
