@@ -3,70 +3,70 @@ Bundled Gears are mainly sets of gears that buff each other (the exception is th
 # List of Bundled Gears
 ## Dasher
 ```
-Dasher
-Dasher Enhancer
-Dasher Battery
+Arm Gear: Dasher
+Back Gear: Dasher Enhancer
+Leg Gear: Dasher Battery
 ```
 {hr}
 ## Magnetizer
 ```
-Magnetizer
-Magnetizer Module: Repulse
-Magnetizer Module: Attract
+Arm Gear: Magnetizer
+Back Gear: Magnetizer Module: Repulse
+Leg Gear: Magnetizer Module: Attract
 ```
 {hr}
 ## Futuristic
 ```
-Repellant Launcher
-Anti-Gravity Pulser
-Field Stepper
+Arm Gear: Repellant Launcher
+Back Gear: Anti-Gravity Pulser
+Leg Gear: Field Stepper
 ```
 {hr}
 ## Slinger
 ```
-Rope Slinger
-Slinger Booster
-Slinger Coil
+Arm Gear: Rope Slinger
+Back Gear: Slinger Booster
+Leg Gear: Slinger Coil
 ```
 {hr}
 ## Charge Gauntlet
 ```
-Charge Gauntlet
-Charge Extractor
-Battery Pack
+Arm Gear: Charge Gauntlet
+Back Gear: Charge Extractor
+Leg Gear: Battery Pack
 ```
 {hr}
 ## Claws
 ```
-Claws
-Grip Plate
-Leg Spikes
+Arm Gear: Claws
+Back Gear: Grip Plate
+Leg Gear: Leg Spikes
 ```
 {hr}
 ## Zipline Thrower
 ```
-Zipline Thrower
-Zipline Bars
-Zipline Bouncer
+Arm Gear: Zipline Thrower
+Back Gear: Zipline Bars
+Leg Gear: Zipline Bouncer
 ```
 {hr}
 ## Supersonic
 ```
-Supersonic Gauntlet
-Supersonic Converter
-Supersonic Canceller
+Arm Gear: Supersonic Gauntlet
+Back Gear: Supersonic Converter
+Leg Gear: Supersonic Canceller
 ```
 {hr}
 ## Swinger
 ```
-Rope Swinger
-Swinger Canisters
-Swinger Pouch
+Arm Gear: Rope Swinger
+Back Gear: Swinger Canisters
+Leg Gear: Swinger Pouch
 ```
 {hr}
 ## Fins
 ```
-Turbines
-Fins
-Tail-Fin
+Arm Gear: Turbines
+Back Gear: Fins
+Leg Gear: Tail-Fin
 ```
