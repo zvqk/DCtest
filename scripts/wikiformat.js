@@ -240,9 +240,16 @@ const Matches = [
 		}
 	},
 	{
+		name:"Currency",
+		match:/(\{cr\})/g,
+		call:function(){
+			return "dc";
+		}
+	},
+	{
 		name:"Price",
 		match:/(\{price\:(.+?)\:(.+?)\})/g,
-		call:function(_,_,c,n){
+		call:function(_,_,n,c){
 			return `Price: ${ColorText(n,"#1cdf7a")} <span class="smaller">${c}</span>`;
 		}
 	},
@@ -258,13 +265,6 @@ const Matches = [
 		match:/(\{sp\:\s*(.+?)\})/g,
 		call:function(_,_,t){
 			return `<sup>${t}</sup>`;
-		}
-	},
-	{
-		name:"Currency",
-		match:/(\{cr\})/g,
-		call:function(){
-			return "dc";
 		}
 	},
 	{
