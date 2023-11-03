@@ -26,8 +26,10 @@ if IsPremiumUser then
 	M += 0.25
 end
 XP *= max(Level/70,1)+M
-XP *= (DistanceFromGenerator/300)
-if DistanceFromGenerator < 100 then
-	XP = 0
+if DistanceFromGenerator <= 300 then
+	XP *= (DistanceFromGenerator/300)
+	if DistanceFromGenerator < 100 then
+		XP = 0
+	end
 end
 ```
