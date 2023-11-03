@@ -264,8 +264,9 @@ img {
 }
 
 hr {
-	height:4px;
+	margin-top:40px;
 	color:var(--lighter-bg-color);
+	border:4px solid var(--lighter-bg-color);
 }
 
 /* Scroll Bar */

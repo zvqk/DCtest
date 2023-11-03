@@ -1,0 +1,33 @@
+Claimable Generators are interactable objects that will give you XP every 5 minutes. You can have a maximum of `2` claimed generators at once.
+
+To claim a generator, you have to answer a simple mathematics question. The question is formatted like this:
+```
+([0-9]<+-*>[0-9])<+-*>([0-9]<+-*>[0-9])
+```
+That formatting forces the answer to always be an integer
+
+When you claim a generator, there is a 5 minute period where nobody else can claim your generator, guaranteeing you 1 XP reward. You can use a {{generatorshields:generator shield}} to protect your generator.
+
+There is 1 generator in every completed {{districts::district}}.
+
+## XP Formula
+```
+GeneratorXP = 1000 --This is the default, currently all generators use this number
+PRatio = min(Players,MaxPlayers)/MinPlayers
+XP = GeneratorXP * PRatio
+M = XPBoostMultiplier
+if OwnsVIP then
+	M += 0.5
+end
+if IsWeekend then
+	M += 0.25
+end
+if IsPremiumUser then
+	M += 0.25
+end
+XP *= max(Level/70,1)+M
+XP *= (DistanceFromGenerator/300)
+if DistanceFromGenerator < 100 then
+	XP = 0
+end
+```
