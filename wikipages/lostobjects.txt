@@ -60,7 +60,7 @@ Left Arm Gear Skin Crate
 +1x : 1hr XP Booster
 1hr Generator Shield
 ```
-
+{hr}
 ### July4th
 #### {rc:Common} (85%)
 ```
@@ -70,7 +70,7 @@ Left Arm Gear Skin Crate
 ```
 +1x : 15m XP Booster
 ```
-
+{hr}
 ### 1MEvent
 #### {rc:Common} (65%)
 ```
@@ -94,7 +94,7 @@ Note Decrypter
 +0.5x : 4hr XP Booster
 +1x : 1hr XP Booster
 ```
-
+{hr}
 ### Halloween
 #### {rc:Common} (65%)
 ```

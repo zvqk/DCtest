@@ -256,11 +256,16 @@ pre,.single-code-block {
 	font-weight:bold;
 }
 
-/* IMG */
+/* TAGS */
 
 img {
 	margin-top:5px;
 	margin-bottom:5px;
+}
+
+hr {
+	height:4px;
+	color:var(--lighter-bg-color);
 }
 
 /* Scroll Bar */
