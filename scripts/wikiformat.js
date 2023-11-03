@@ -171,6 +171,20 @@ const Matches = [
 		}
 	},
 	{
+		name:"Currency",
+		match:/(\{cr\})/g,
+		call:function(){
+			return "dc";
+		}
+	},
+	{
+		name:"CurrencyLong",
+		match:/(\{crl\})/g,
+		call:function(){
+			return "District Credits";
+		}
+	},
+	{
 		name:"MultiLineCodeBlock",
 		match:/(\`{3}[\r\n](.+?)[\r\n]\`{3})/gms,
 		call:function(_,_,x){
@@ -253,20 +267,6 @@ const Matches = [
 		match:/(\{v\:\s*(.+?)\})/g,
 		call:function(_,_,n){
 			return window.SVars[n]||"";
-		}
-	},
-	{
-		name:"Currency",
-		match:/(\{cr\})/g,
-		call:function(){
-			return "dc";
-		}
-	},
-	{
-		name:"CurrencyLong",
-		match:/(\{crl\})/g,
-		call:function(){
-			return "District Credits";
 		}
 	},
 	{

@@ -1,7 +1,7 @@
 Daily Quests are tasks the player completes in order to get rewarded. Daily Quests must be obtained from the Daily Quest Dude, which is located south of the main spawn in D1.
 
 ## List of Daily Quests
-^ Edge-Jumping
+### Edge-Jumping
 | Perform Edge-Jumps a given number of times, get rewarded
 | Level Requirements: 0 - 49
 Requirements:
@@ -14,7 +14,7 @@ Rewards:
 5{cr}
 ```
 
-^ Basic Mechanics
+### Basic Mechanics
 | Perform Basic Mechanics a given number of times, get rewarded
 Requirements:
 ```
@@ -26,10 +26,10 @@ Requirements:
 Rewards:
 ```
 8000 XP
-5{cl}
+5{cr}
 ```
 
-^ Extra Mechanics
+### Extra Mechanics
 | Perform Extra-Ability Mechanics a given number of times, get rewarded
 | Level Requirements: 20+
 Requirements:
@@ -42,10 +42,10 @@ Requirements:
 Rewards:
 ```
 12000 XP
-10{cl}
+10{cr}
 ```
 
-^ Speed Jumps
+### Speed Jumps
 | Perform Edge-Jump at 110+ Horizontal Velocity
 | Level Requirements: 50+
 Requirements:
@@ -56,10 +56,10 @@ Rewards:
 ```
 15000 XP
 1 Legendary Skin Crate
-5{cl}
+5{cr}
 ```
 
-^ Speed Vaults
+### Speed Vaults
 | Perform Vaults at 70+ Horizontal Velocity
 | Level Requirements: 35+
 Requirements:
@@ -69,10 +69,10 @@ Requirements:
 Rewards:
 ```
 12000 XP
-5{cl}
+5{cr}
 ```
 
-^ Low Landing MS
+### Low Landing MS
 | Perform perfect landings with 40ms or lower
 Requirements:
 ```
@@ -81,10 +81,10 @@ Requirements:
 Rewards:
 ```
 6000 XP
-5{cl}
+5{cr}
 ```
 
-^ Reach the Speed-Cap
+### Reach the Speed-Cap
 | Reach the Speed-Cap of 260hv
 | Level Requirements: 50+
 Requirements:
@@ -95,10 +95,10 @@ Rewards:
 ```
 9000 XP
 1 Epic Skin Crate
-5{cl}
+5{cr}
 ```
 
-^ Lost Objects
+### Lost Objects
 | Find lost objects, get rewarded
 Requirements:
 ```
@@ -110,7 +110,7 @@ Rewards:
 1 Epic Skin Crate
 ```
 
-^ Time-Trials
+### Time-Trials
 | Complete time-trials, get rewarded
 Requirements:
 ```
@@ -122,7 +122,7 @@ Rewards:
 1 Mythical Skin Crate
 ```
 
-^ Deliveries
+### Deliveries
 | Complete deliveries, get rewarded
 Requirements:
 ```
