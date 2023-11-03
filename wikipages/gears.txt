@@ -1,0 +1,15 @@
+Gears are essential to traversal in-game. A gear is an object that will give you an ability, or will modify the stats of currently existing mechanics. Passive gears are gears that don't give any extra ability, while active gears do.
+
+There are multiple types of gears, and you can only have 1 type of gear equipped at a time:
+^ {{armgears:Arm Gear}}
+^ {{backgears:Back Gear}}
+^ {{leggears:Leg Gear}}
+^ {{cosmeticgears:Cosmetic Gear}}
+^ {{leftarmgears:Left Arm Gear}}
+
+| Looking for gear bundles? See {{bundlegears:the bundled gears page}}.
+
+## Gear Requirements
+Most gears require you to unlock them via levels, but there are few that have different requirements.
+| Some gears require you to purchase them from a shop
+| Some gears require you to unlock them with a `Gear Upgrade Kit`.

@@ -1,0 +1,87 @@
+Arm Gears use your `Arm Gear` keybind to function.
+
+# List of Arm Gears
+## Claws {(tag:#1caf7a)Active}
+| Requires Level <b>25</b>
+| Description:
+```
+Climb up obstacles in front of you, and also increase the performance of wall-running
+```
+## Dasher {(tag:#1caf7a)Active}
+| Requires Level <b>90</b>
+| Description:
+```
+When used, you will dash towards where you are looking; must be in the air
+```
+## Rope Slinger {(tag:#1caf7a)Active}
+| Requires Level <b>75</b>
+| Description:
+```
+Using the power of a rope slinger, you will be brought towards the location you used it on
+```
+## Repellant Launcher {(tag:#1caf7a)Active}
+| Requires Level <b>40</b>
+| Description:
+```
+Shoots out a projectile that hits a surface, and reflects your velocity depending on the direction from the projectile
+```
+## Rope Swinger {(tag:#1caf7a)Active}
+| Requires Level <b>60</b>
+| Description:
+```
+Swing on a rope, or 3! Very versatile for all sorts of movement
+```
+## Charge Gauntlet {(tag:#1caf7a)Active}
+| Requires Level <b>12</b>
+| Description:
+```
+Holds a charge, some base game-play mechanics will use charge to improve their power
+```
+## Turbines {(tag:#1caf7a)Active}
+| Requires Level <b>115</b>
+| Description:
+```
+Increases the max speed of fins, and adds the ability to give fins a boost with the arm gear keybind
+```
+## Time Dilator {(tag:#1caf7a)Active}
+| Requires Level <b>35</b>
+| Description:
+```
+Charges itself using your speed; once used, it will act as if everything around you has slowed down, while you speed up
+```
+## Magnetizer {(tag:#1caf7a)Active}
+| Requires Level <b>100</b>
+| Description:
+```
+A very high-tech device which allows you to rotate around a point in space at the same constant speed you started with
+```
+## Zipline Thrower {(tag:#1caf7a)Active}
+| Requires Level <b>45</b>
+| Description:
+```
+Launch out two bars instantly, and move forward or back on the temporary zipline it creates. Must have something in front of and behind you to be used
+```
+## Exo-Grips {(tag:#df1c4a)Passive}
+| Requires Level <b>50</b>
+| Description:
+```
+Increases speed of Wall-Climb, Vaulting, and Catpass. Wall-Boost/Wall-Run-Kick will now allow for vertical control
+```
+## Shield Field {(tag:#1caf7a)Active}
+| Requires Level <b>65</b>
+| Description:
+```
+A device in which you can protect yourself from fall damage. Press your arm gear keybind to activate, press again to stop. Cannot be used while the fuel bar is red
+```
+## Supersonic Gauntlet {(tag:#1caf7a)Active}
+| Requires Level <b>70</b>
+| Description:
+```
+Launch yourself forward and up
+```
+## Wall Bouncer {(tag:#1caf7a)Active}
+| Requires Level <b>55</b>
+| Description:
+```
+Using this gear on a wall will bounce you away from the given wall
+```

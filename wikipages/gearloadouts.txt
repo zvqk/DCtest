@@ -1,0 +1,1 @@
+You can create gear loadouts, which allow you to quickly switch between sets of gears. Think of it like a custom {{bundlegears:bundled gear set}}.
