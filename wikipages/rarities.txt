@@ -1,0 +1,13 @@
+Every item in your inventory has a rarity associated with it. Although the rarity of the item may not directly correlate to the chance of said item, it is a general range of how rare the item is.
+
+## List of Rarities
+| The chances that are attached to the given rarities are only the default chances of said rarities. Anything that uses the rarity system in-game is allowed to modify these chances.
+^ {rc:Common} (50%)
+^ {rc:Uncommon} (30%)
+^ {rc:Rare} (12%)
+^ {rc:Epic} (5%)
+^ {rc:Legendary} (2.5%)
+^ {rc:Mythical} (0.5%)
+^ {rc:Exotic} (???%)
+^ {rc:Exclusive} (???%)
+^ {rc:VIP} (???%)

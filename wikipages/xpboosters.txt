@@ -5,7 +5,7 @@ Using an XP Booster will give you a XP Boost of the specified multiplier for the
 You cannot stack the effects of an XP Booster, as it will ask you if you would like to override one that's already in use.
 
 XP Boosters boost the XP gain of the following:
-^ {{mechanics::Moves}}
+^ {{mechanics:Moves}}
 ^ {{generators:Generators}}
 ^ {{lostobjects:Lost Objects}}
 ^ {{timetrials:Time-Trials}}
