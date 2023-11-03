@@ -2,78 +2,101 @@ Mechanics are the parkour moves you perform. Most base mechanics in-game will gi
 
 | If you are looking for tricks/techniques, please see {{techniques:the techniques page}}.
 
+{UNF}
+
 ## List of Mechanics that give XP
 ^ Proper Land
 | XP Range: 15,30
 | Combo XP: 2
+
 ^ Drop-down
 | XP Range: 15,25 
 | Combo XP: 1
+
 ^ Vaulting
 | XP Range: 10,15 
 | Combo XP: 1
 | Strength XP: 1
+
 ^ Safe-Climb
 | XP Range: 10,15 
 | Combo XP: 1
+
 ^ Wall-Climb
 | XP Range: 12,20 
 | Combo XP: 2
+
 ^ Leaping
 | XP Range: 10,15 
 | Combo XP: 1
 | Strength XP: 1
+
 ^ Coil-Dash
 | XP Range: 50,60 
 | Combo XP: 5
+
 ^ High-Jump
 | XP Range: 20,30 
 | Combo XP: 3
+
 ^ Wall-Boost
 | XP Range: 5,10 
 | Combo XP: 2
 | Strength XP: 1
+
 ^ Coiled Wall-Boost
 | XP Range: 10,15 
 | Combo XP: 1
 | Strength XP: 1
+
 ^ Coiled Wall-Kick
 | XP Range: 10,15 
 | Combo XP: 2
+
 ^ Wall-Kick
 | XP Range: 10,15 
 | Combo XP: 2
+
 ^ Wall-Run-Kick
 | XP Range: 10,15 
 | Combo XP: 2
 | Strength XP: 1
+
 ^ Wall-Grabbing
 | XP Range: 5,10 
 | Combo XP: 1
+
 ^ Catpass
 | XP Range: 15,20 
 | Combo XP: 2
 | Strength XP: 1
+
 ^ Wall-Run
 | XP Range: 15,20
 | Combo XP: 2
+
 ^ Edge-Jump
 | XP Range: 10,15 
 | Combo XP: 1
 | Strength XP: 1
+
 ^ Sliding Edge-Jump
 | XP Range: 20,30 
 | Combo XP: 2
 | Strength XP: 1
+
 ^ Higher Edge-Jump
 | XP Range: 20,30 
 | Combo XP: 2
 | Strength XP: 1
+
 ^ Wall-Push
 | XP Range: 30,50 
 | Combo XP: 2
+
 ^ Slide
 | XP Range: 5,10
+
 ^ Pipe-Swing
 | XP Range: 15,30
 | Combo XP: 2

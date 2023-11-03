@@ -21,7 +21,7 @@ async function CheckHash(){
 	try{
 		let Response = await fetch(`https://raw.githubusercontent.com/FIREYAUTO/DistrictCascade/main/wikipages/${Hash}.txt`);
 		Response = await Response.text();
-		Response = `# ${Files[Hash]||"Title"}\n${Response}`;
+		Response = `# ${Files[Hash]||"Title"}\n${Response}\n\n\n\n`;
 		if(window.WikiParse){
 			let Side = document.getElementById("side");
 			Side.innerHTML = window.WikiParse(Response);

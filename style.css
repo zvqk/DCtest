@@ -249,9 +249,11 @@ pre,.single-code-block {
 	height:auto;
 	padding:10px;
 	text-align:center;
-	background:#af1c4a;
-	border:2px solid #7a1c4a;
+	background:#7a1c4978;
+	border:2px solid #af1c4a78;
 	border-radius:4px;
+	font-size:20px;
+	font-weight:bold;
 }
 
 /* IMG */
