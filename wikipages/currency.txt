@@ -1,0 +1,9 @@
+{crl} is the currency in-game. {crl} are used to purchase items from {{shops:shops}} or {{vendingmachines:vending machines}}.
+
+## How to get {crl}?
+| {{dailyquests:Daily Quests}}
+| {{supplydrops:Supply Drops}}
+| {{hourlyevents:Hourly Events}}
+| {{deliveries:Deliveries}}
+| Selling Items
+| Donating

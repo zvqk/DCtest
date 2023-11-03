@@ -54,3 +54,11 @@ Jaded Crown Skin
 Crimson Crown Skin
 50{cr}
 ```
+
+## Extra Level Rewards
+| Every 5 levels you will get a random basic skin crate
+| Every 25 levels you will get a `Legendary Skin Crate`
+| Every 1 level you will get the following amount of {crl}:
+```
+max(ceil(Level/10),1)
+```

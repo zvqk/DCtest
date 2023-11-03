@@ -263,6 +263,13 @@ const Matches = [
 		}
 	},
 	{
+		name:"CurrencyLong",
+		match:/(\{crl\})/g,
+		call:function(){
+			return "District Credits";
+		}
+	},
+	{
 		name:"Price",
 		match:/(\{price\:(.+?)\:(.+?)\})/g,
 		call:function(_,_,c,n){

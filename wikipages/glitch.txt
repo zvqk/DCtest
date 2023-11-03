@@ -1,0 +1,9 @@
+The Glitch stat is a purple bar that is half the height of your XP bar, and is also located inside of your XP bar.
+
+Glitch is only obtainable when the {{seasons:season}} is halloween.
+
+To increase your glitch stat, input the incorrect answer on a {{generators:claimable generator}}.
+
+When your glitch stat is maxed out, you will recieve the following if you don't already have them:
+^ Glitch Dasher Skin
+^ {{orbs:Glitch Orb}}
