@@ -244,6 +244,16 @@ pre,.single-code-block {
 	font-size:12px;
 }
 
+.unfinished {
+	width:100%;
+	height:auto;
+	padding:10px;
+	text-align:center;
+	background:#af1c4a;
+	border:2px solid #7a1c4a;
+	border-radius:4px;
+}
+
 /* IMG */
 
 img {

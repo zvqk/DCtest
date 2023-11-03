@@ -298,6 +298,13 @@ const Matches = [
 		}
 	},
 	{
+		name:"Unfinished",
+		match:/(\{UNF\})/g,
+		call:function(){
+			return "<div class=\"unfinished\">This page is unfinished!\nExpect more content to be added</div>";
+		}
+	},
+	{
 		name:"WikiReference",
 		match:/(\{{2}(.+?)\:(.+?)\}{2})/g,
 		call:function(_,_,t,n){
