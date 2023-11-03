@@ -128,13 +128,14 @@ h1,h2,h3 {
 
 #list {
 	width:15vw;
-	height:auto;
+	height:80vh;
 	border:2px solid var(--light-bg-color);
 	border-radius:8px;
 	float:left;
 	padding-top:10px;
 	padding-bottom:10px;
 	position:absolute;
+	overflow: auto;
 }
 
 .list-category {
@@ -185,6 +186,11 @@ h1,h2,h3 {
 	text-wrap:wrap;
 }
 
+pre,.single-code-block {
+	font-family: var(--code-font);
+	font-size: 14px;
+}
+
 /* INPUTS */
 
 /* CODE BLOCKS */
@@ -193,6 +199,7 @@ h1,h2,h3 {
 	border-radius: 4px;
 	background: var(--code-bg-color);
 	color: var(--main-text-color);
+	padding:4px;
 }
 
 .multi-code-block {
@@ -200,6 +207,9 @@ h1,h2,h3 {
 	tab-size:4;
 	background: var(--code-bg-color);
 	color: var(--main-text-color);
+	overflow-x:auto;
+	padding:4px;
+	font-size: 14px;
 }
 
 /* CLASSES */
@@ -221,15 +231,33 @@ h1,h2,h3 {
 }
 
 .tag {
-	color: var(--text-color);
+	color: var(--main-text-color);
 	background: var(--light-bg-color);
 	border-radius:12px;
 	font-size:12px;
-	padding-left:4px;
-	padding-right:4px;
+	padding-left:6px;
+	padding-right:6px;
+	margin-left:10px;
 }
 
 img {
 	margin-top:5px;
 	margin-bottom:5px;
+}
+
+/* Scroll Bar */
+
+::-webkit-scrollbar {
+	width: 8px;
+}
+::-webkit-scrollbar-track {
+	background: var(--dark-bg-color);
+	border-radius:8px;
+}
+::-webkit-scrollbar-thumb {
+	background: var(--lighter-bg-color);
+	border-radius:4px;
+}
+::-webkit-scrollbar-thumb:hover {
+	background: var(--light-bg-color);
 }

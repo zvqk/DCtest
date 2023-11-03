@@ -31,13 +31,6 @@ const ColorText =(t,c)=>`<span style="color:${c};">${t}</span>`;
 
 const RT=(a,...x)=>a("$&",...x);
 const REP = (Text,Reg,Rep)=>Text.replace(Reg,Rep);
-/*
-const RE = (Text,Extra)=>{
-	let e = new RegExp(`(${Text})`,Extra); //(?![^<]*>|[^<>]*</)
-	if (Extra&&Extra.match("m"))e.multiline=true;
-	return e;
-};
-*/
 
 function IterateMatches(Result,M){
 	for(let	k in M){
