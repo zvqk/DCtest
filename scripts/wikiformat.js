@@ -136,7 +136,7 @@ const Matches = [
 	},
 	{
 		name:"Header",
-		match:/((\#+)\s*(.+))/g,
+		match:/((?<!\&)(\#+)\s*(.+))/g,
 		call:function(_,_,h,x){
 			let hm = h.length;
 			return `<h${hm}>${x}</h${hm}>`;
@@ -168,6 +168,22 @@ const Matches = [
 		match:/(\{\(tag\:\s*([A-Fa-f0-9]{6})\)\s*(.*?)\})/g,
 		call:function(_,_,c,t){
 			return `<span class="tag" style="background:#${c}">${t}</span>`;
+		}
+	},
+	{
+		name:"MultiLineCodeBlock",
+		match:/(\`{3}[\r\n](.+?)[\r\n]\`{3})/gms,
+		call:function(_,_,x){
+			x=x.replace(/\*/g,"&#x2a;");
+			return `<pre class="multi-code-block">${x}</pre>`;
+		}
+	},
+	{
+		name:"SingleLineCodeBlock",
+		match:/(\`([^\`]+?)\`)/g,
+		call:function(_,_,x){
+			x=x.replace(/\*/g,"&#42;");
+			return `<span class="single-code-block">${x}</span>`;
 		}
 	},
 	{
@@ -279,20 +295,6 @@ const Matches = [
 		match:/(\{{2}(.+?)\:(.+?)\}{2})/g,
 		call:function(_,_,t,n){
 			return `<a class="side-a" href="#${t}">${n}</a>`;
-		}
-	},
-	{
-		name:"MultiLineCodeBlock",
-		match:/(\`{3}[\r\n](.+?)[\r\n]\`{3})/gms,
-		call:function(_,_,x){
-			return `<pre class="multi-code-block">${x}</pre>`;
-		}
-	},
-	{
-		name:"SingleLineCodeBlock",
-		match:/(\`([^\`]+?)\`)/g,
-		call:function(_,_,x){
-			return `<span class="single-code-block">${x}</span>`;
 		}
 	},
 	{

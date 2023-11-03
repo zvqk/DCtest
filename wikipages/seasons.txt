@@ -3,9 +3,9 @@ Seasons are periods of time where the game will allow specific codes to be redee
 Seasons are determined based on time and priority. Each season has its own priority, which determines if it overrides other seasons.
 
 ## Season Priority
-> {(c:1c7adf)Holiday}: 100
-> {(c:1caf7a)Event}: 50
-> {(c:7a1cdf)Season}: 0
+| {(c:1c7adf)Holiday}: 100
+| {(c:1caf7a)Event}: 50
+| {(c:7a1cdf)Season}: 0
 
 ## Seasons List
 ^ July 4th {(ts)July 2nd - 6th} {(tag:1c7adf)Holiday}
