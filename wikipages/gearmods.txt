@@ -1,0 +1,81 @@
+Gear mods are items that you can equip/unequip in your inventory. An equipped gear mod will modify the specified gear in a specific way, in which it buffs one thing, but nerfs another, or slightly changes how velocity is calculated.
+
+Gear mods can be purchased from the {{shops:gear shop}} in D1.
+
+# List of Gear Mods
+## Slinger Insta-Pull ({rc:Rare})
+| Gear: RopeSlinger (Arm Gear)
+| Description:
+```
+Will allow your slinger to pull you instantly towards a direction
+```
+{hr}
+## Repellant Redirection ({rc:Epic})
+| Gear: RepellantLauncher (Arm Gear)
+| Description:
+```
+Will have your repellants redirect velocity  compared to your current velocity
+```
+{hr}
+## Dasher Insta-Dash ({rc:Legendary})
+| Gear: Dasher (Arm Gear)
+| Description:
+```
+Your dasher will dash instantly, no charge required
+```
+{hr}
+## Slinger Pathfinder ({rc:Uncommon})
+| Gear: RopeSlinger (Arm Gear)
+| Description:
+```
+Will have your slinger rotate slower
+```
+{hr}
+## Stepper Overcharge ({rc:Epic})
+| Gear: FieldStepper (Leg Gear)
+| Description:
+```
+Your stepper platforms will be smaller, but the cooldown is faster
+```
+{hr}
+## Pulser Boost ({rc:Rare})
+| Gear: AntiGravityPulser (Back Gear)
+| Description:
+```
+Anti-Gravity Pulser will now push you upwards, at the cost of a slower movement speed
+```
+{hr}
+## Fan Speed-Up ({rc:Mythical})
+| Gear: IndustrialFan (Left Arm Gear)
+| Description:
+```
+Industrial Fan makes you spins faster
+```
+{hr}
+## Repellant Reach ({rc:Legendary})
+| Gear: RepellantLauncher (Arm Gear)
+| Description:
+```
+Repellant Launcher will shoot further, but at the cost of less power
+```
+{hr}
+## Director Fall Helper ({rc:Rare})
+| Gear: VelocityDirector (Back Gear)
+| Description:
+```
+Velocity Director will cancel fall damage upon use, but will be less powerful
+```
+{hr}
+## Dasher Overcharge ({rc:Mythical})
+| Gear: Dasher (Arm Gear)
+| Description:
+```
+Your dasher will be allowed to charge over it's capacity, at the cost of potentially damaging it
+```
+{hr}
+## Stepper Absorbtion ({rc:Mythical})
+| Gear: FieldStepper (Leg Gear)
+| Description:
+```
+Your stepper platforms will absorb some fall damage, but the cooldown is longer
+```
