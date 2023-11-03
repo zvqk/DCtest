@@ -1,0 +1,72 @@
+Bundled Gears are mainly sets of gears that buff each other (the exception is the futuristic bundle).
+
+# List of Bundled Gears
+## Dasher
+```
+Dasher
+Dasher Enhancer
+Dasher Battery
+```
+{hr}
+## Magnetizer
+```
+Magnetizer
+Magnetizer Module: Repulse
+Magnetizer Module: Attract
+```
+{hr}
+## Futuristic
+```
+Repellant Launcher
+Anti-Gravity Pulser
+Field Stepper
+```
+{hr}
+## Slinger
+```
+Rope Slinger
+Slinger Booster
+Slinger Coil
+```
+{hr}
+## Charge Gauntlet
+```
+Charge Gauntlet
+Charge Extractor
+Battery Pack
+```
+{hr}
+## Claws
+```
+Claws
+Grip Plate
+Leg Spikes
+```
+{hr}
+## Zipline Thrower
+```
+Zipline Thrower
+Zipline Bars
+Zipline Bouncer
+```
+{hr}
+## Supersonic
+```
+Supersonic Gauntlet
+Supersonic Converter
+Supersonic Canceller
+```
+{hr}
+## Swinger
+```
+Rope Swinger
+Swinger Canisters
+Swinger Pouch
+```
+{hr}
+## Fins
+```
+Turbines
+Fins
+Tail-Fin
+```
