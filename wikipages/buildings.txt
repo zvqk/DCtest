@@ -1,0 +1,8 @@
+Buildings are all parts that get textures loaded onto them by the chunk loader.
+
+Buildings consist of 3 parts each, the top part, the part with the texture, and the hitbox.
+
+## Textures
+Building textures are stored as an attribute on the building, and it is a number from 1 to 20. There are 20 total building textures. The color of a building texture will depend on the color of the building itself.
+
+At night, building texture colors will be increased to appear as if they are glowing. Although, this is a setting and can be toggled. Some buildings at night will appear dark, as if the lights turned off. This pattern of light and dark buildings will change every night in-game.
