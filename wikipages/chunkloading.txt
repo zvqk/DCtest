@@ -1,0 +1,22 @@
+Chunk loading is necessary to keep the game optimized. You are able to toggle chunk loading in settings, but it is highly recommended to keep it on.
+
+## Chunk
+A chunk is a 150x150 stud (x and z axes) area, which contains props and buildings.
+The chunk isn't an instance, but rather a table that references props and buildings.
+
+## Loading
+Chunks will load around your Root position and your Camera position.
+### Building Loading
+Buildings are loaded as usual with the rest of the props, but the only difference is that building textures are also loaded when the building is loaded (This also includes the snow {{weather:weather}} snow layer).
+### Prop Loading
+There are 2 types of prop loaders:
+| 1. Props are created and positioned at a CFrame coordinate, a "hitbox" if you will.
+| 2. Props are loaded by reparenting an already existing prop, already in the correct position.
+To see more about prop loading, read {{props:the props page}}.
+
+## Pre-loading
+The chunk loader preloads all buildings and props when the game begins, so that it doesn't have to look for them when you are moving around.
+
+There are two types of pre-loaders:
+| 1. Smaller props: Props that fit within a single chunk
+| 2. Big props: Props that fit inside of multiple chunks

@@ -1,0 +1,41 @@
+There are many different props in the game. Most props are placed via a hitbox rather than using the actual prop model itself; mainly to preserve memory, but also to allow all props to be updated by updating their original model.
+
+The edge of the map near D15 contains all of the base prop models.
+
+## Prop Types {sp:(Raw Name)}
+```
+Ziplines
+WoodPlanks
+Vents
+VendingMachines
+VaultAreas
+Trampolines
+SwingPipes
+Springboards
+SpawnDecorations
+SolarPanels
+SidePlatforms
+SecurityCameras
+Scaffolds
+RoofDoors
+RoofBillboards
+PlanterBoxes
+Pipes
+PipePoles
+Patches
+Lights
+LandingMats
+Helipads
+GrassAreas
+Cranes
+ConcreteWalls
+Climbables
+ClimbPipes
+Billboards
+BHopAreas
+AutoBillboards
+Arches
+GroundPatches
+WaterTowers
+Neon
+```

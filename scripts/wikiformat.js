@@ -88,13 +88,6 @@ const Matches = [
 		}
 	},
 	{
-		name:"ListItem",
-		match:/(\>\s*(.+))/g,
-		call:function(_,_,x){
-			return `<li>${x}</li>`;
-		}
-	},
-	{
 		name:"Pre",
 		match:/(\{pre\}\s*(.+))/g,
 		call:function(_,_,x){
