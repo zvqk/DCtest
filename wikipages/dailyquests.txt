@@ -1,0 +1,135 @@
+Daily Quests are tasks the player completes in order to get rewarded. Daily Quests must be obtained from the Daily Quest Dude, which is located south of the main spawn in D1.
+
+## List of Daily Quests
+^ Edge-Jumping
+| Perform Edge-Jumps a given number of times, get rewarded
+| Level Requirements: 0 - 49
+Requirements:
+```
+30 Edge-Jumps
+```
+Rewards:
+```
+3500 XP
+5{cr}
+```
+
+^ Basic Mechanics
+| Perform Basic Mechanics a given number of times, get rewarded
+Requirements:
+```
+80 Edge-Jumps
+70 Vaults
+70 Wall-Boosts
+30 Wall-Climbs
+```
+Rewards:
+```
+8000 XP
+5{cl}
+```
+
+^ Extra Mechanics
+| Perform Extra-Ability Mechanics a given number of times, get rewarded
+| Level Requirements: 20+
+Requirements:
+```
+50 Catpasses
+50 Wall-Runs
+50 Wall-Run-Kicks
+25 Pipe Swings
+```
+Rewards:
+```
+12000 XP
+10{cl}
+```
+
+^ Speed Jumps
+| Perform Edge-Jump at 110+ Horizontal Velocity
+| Level Requirements: 50+
+Requirements:
+```
+30 Edge-Jumps at 110+ horizontal velocity
+```
+Rewards:
+```
+15000 XP
+1 Legendary Skin Crate
+5{cl}
+```
+
+^ Speed Vaults
+| Perform Vaults at 70+ Horizontal Velocity
+| Level Requirements: 35+
+Requirements:
+```
+30 Vaults at 70+ horizontal velocity
+```
+Rewards:
+```
+12000 XP
+5{cl}
+```
+
+^ Low Landing MS
+| Perform perfect landings with 40ms or lower
+Requirements:
+```
+20 Perfect Landings under 40ms
+```
+Rewards:
+```
+6000 XP
+5{cl}
+```
+
+^ Reach the Speed-Cap
+| Reach the Speed-Cap of 260hv
+| Level Requirements: 50+
+Requirements:
+```
+Reach the horizontal speed-cap of 260
+```
+Rewards:
+```
+9000 XP
+1 Epic Skin Crate
+5{cl}
+```
+
+^ Lost Objects
+| Find lost objects, get rewarded
+Requirements:
+```
+5 Lost Objects
+```
+Rewards:
+```
+10000 XP
+1 Epic Skin Crate
+```
+
+^ Time-Trials
+| Complete time-trials, get rewarded
+Requirements:
+```
+10 Time-Trials
+```
+Rewards:
+```
+10000 XP
+1 Mythical Skin Crate
+```
+
+^ Deliveries
+| Complete deliveries, get rewarded
+Requirements:
+```
+3 Deliveries
+```
+Rewards:
+```
+25000 XP
+1 Mythical Skin Crate
+```
