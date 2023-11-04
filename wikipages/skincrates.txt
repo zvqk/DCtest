@@ -1,5 +1,8 @@
 Skin Crates are used to get gear skins. Every non-basic skin crate will have different chance rarities.
 
+## Skin Crate Refining
+You can refine specific skin crates to recieve a skin crate of a higher tier. You will need `5` lower tier skin crates in order to turn them into the next tier. All exclusive skin crates are not able to be refined.
+
 ## List of Skin Crates
 ^ Arm Gear Skin Crate ({rc:Rare})
 | Default {{rarities:Rarities}}
