@@ -10,6 +10,12 @@ When you claim a generator, there is a 5 minute period where nobody else can cla
 
 There is 1 generator in every completed {{districts:district}}.
 
+## XP Information
+^ <100 studs? 0 XP
+^ <300 studs? Less XP the closer you get
+^ Less Players? Less XP
+^ More Level? More XP
+
 ## XP Formula
 ```
 GeneratorXP = 1000 --This is the default, currently all generators use this number
