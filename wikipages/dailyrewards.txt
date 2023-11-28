@@ -1,0 +1,17 @@
+Daily rewards are given to group members. Every day when you log in, you will get a daily reward.
+
+# Set Rewards
+Set rewards are daily rewards you get at specific days
+```
+None
+```
+
+# Repetitive Rewards
+Repetitive rewards are daily rewards you get every # amount of days
+```
+Every 1 Day: Currency
+	Calculated as: clamp(floor((Days-1)*5)+10,10,50)
+Every 2 Days (Even): +1x : 15m XP Booster (1)
+Every 2 Days (Odd): Epic Skin Crate (1)
+Every 4 Days: Exotic Skin Crate (1)
+```
