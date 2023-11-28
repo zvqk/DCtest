@@ -10,6 +10,13 @@ At night, a random district is selected, and its {v:DM} will increase by +0.5x.
 ## {v:DM}s
 {v:DM}s will increase the amount of XP you get from game mechanics. The highest {v:DM} is 3x, which is in **D8, Neon**. 
 
+## RDM
+RDM stands for "Recent District Multiplier". It is calculated based on how many districts you enter while alive, over the course of 3 minutes.
+RDM Calculation:
+```
+max(NumberOfDistrictsEntered - 2, 0) / 5
+```
+
 ## District Layout
 Each district boundary is broken up into units. 1 unit is 1024x1024 studs. Using this, you can calculate the total size of the map.
 ex: D1 is 2x2 units (4 units total)
