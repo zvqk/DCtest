@@ -7,7 +7,7 @@ None
 ```
 
 # Repetitive Rewards
-Repetitive rewards are daily rewards you get every # amount of days
+Repetitive rewards are daily rewards you get every "x" amount of days
 ```
 Every 1 Day: Currency
 	Calculated as: clamp(floor((Days-1)*5)+10,10,50)
