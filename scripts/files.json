@@ -29,6 +29,7 @@
 	["Refinery Machine","refinery"],
 	["Vending Machines","vendingmachines"],
 	["Security Cameras","securitycameras"],
+	["Drones","drones"],
 
 	["Gameplay",true],
 	["Tutorials","tutorials"],
@@ -48,6 +49,7 @@
 	["Skin Crates","skincrates"],
 	["Generator Shields","generatorshields"],
 	["Tickets","tickets"],
+	["Gear Upgrade Kits","gearupgradekit"],
 
 	["Stats",true],
 	["Leveling","leveling"],

@@ -1,0 +1,4 @@
+A Gear Upgrade Kit is an item that allows you to unlock a specific gear that requires an upgrade kit. To unlock a gear, it should say that it requires another gear as well as an "Upgrade Kit". 
+
+Upgrade Kits are currently obtained by the following means:
+^ {{lostobjects:Lost Objects}}

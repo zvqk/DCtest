@@ -1,0 +1,10 @@
+Drones are flying machines in-game that will fly from 1 point to another. You can hang on as drone as it's in the air by using your **Extra Ability** keybind while under the drone (Remember to hold it!).
+
+Drones are unable to be interacted with in any way that will alter where they go.
+
+# How does it work?
+The drone is just a FSM AI model that will fly back and forth from one landing pad to another.
+
+# Facts
+^ Drones run on a 0.2s loop on the server, meaning its FSM AI is only invoked every 0.2s to check for state updates. This was done to optimize drones, allowing for many to be running on the server at once.
+^ There is currently 5 unique drone paths in-game
