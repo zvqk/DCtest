@@ -67,6 +67,12 @@ Object Manipulator ({rc:Exotic})
 Neptune's Paw ({rc:Mythical})
 | Description: Water.
 | Designers: @Rainyyz & @FIREYAUTO
+Bloody's Slinger 2.0 ({rc:Exotic})
+| Description: The latest & greatest in blood-powered hydraulic projectile launchers, seems parasitic though! great for impersonating friends!
+| Designers: @bloodied_net
+Hellslinger ({rc:Legendary})
+| Description: Legend says this was a powerful relic of a lost time
+| Designers: @r5styy
 ```
 {hr}
 ## Charge Gauntlet
@@ -191,6 +197,13 @@ Red Spring ({rc:Epic})
 District Bouncer ({rc:Common})
 | Description: Wield the power of District Cascade
 | Season: 1MEvent
+Blue Surface Deflector ({rc:Common})
+Green Surface Deflector ({rc:Common})
+Red Surface Deflector ({rc:Common})
+Spring Capsule ({rc:Epic})
+| Description: Boioioioing
+| Designers: @bloodied_net
+Purple Surface Deflector ({rc:Common})
 ```
 {hr}
 ## Dasher Enhancer
@@ -374,16 +387,6 @@ Relic Brace ({rc:Epic})
 | Designers: @pigeon_pogi
 ```
 {hr}
-## Surface Deflector
-```
-Blue Surface Deflector ({rc:Common})
-Green Surface Deflector ({rc:Common})
-Red Surface Deflector ({rc:Common})
-Spring Capsule ({rc:Epic})
-| Description: Boioioioing
-| Designers: @bloodied_net
-```
-{hr}
 ## Swinger Pouch
 ```
 Golden Swinger Pouch ({rc:Rare})
@@ -401,6 +404,10 @@ Plank Stepper ({rc:Mythical})
 God's Field ({rc:Mythical})
 | Description: WARNING: Releasing this much power might crush you...
 | Designers: @35DEIVAI
+Grave Stepper ({rc:Uncommon})
+| Description: You feel a cold shiver up your spine, as if someone is walking across your grave...
+| Season: Halloween
+| Designers: @PandaBoy4067
 ```
 {hr}
 ## Rocket Propeller
@@ -531,6 +538,9 @@ A Pumpkin :3 ({rc:Common})
 | Description: This is some silliness :3
 | Season: Halloween
 | Designers: @adamekcz1122
+Lava's Cat ({rc:Exclusive})
+| Description: meow :3
+| Designers: @ImaginativeLA
 ```
 {hr}
 ## Bar Lights
@@ -618,7 +628,7 @@ Cherry Blossom Bracelet ({rc:Legendary})
 | Description: This blossom is so powerfull, it can absorb half of the damage you recieve!
 | Designers: @adamekcz1122
 Shield Drink ({rc:Common})
-| Description: "Do not ask me why is the glass closed
+| Description: Do not ask me why is the glass closed
 | Season: 1MEvent
 | Designers: @adamekcz1122
 ```
@@ -635,4 +645,11 @@ Yellow & Black Arm Warmers ({rc:Legendary})
 ## Speed Bracelet
 ```
 Golden Speed Bracelet ({rc:Rare})
+```
+{hr}
+## Reality Randomizer
+```
+Puzzle Cube ({rc:Legendary})
+| Description: How did you scramble it like that?
+| Designers: @PandaBoy4067
 ```

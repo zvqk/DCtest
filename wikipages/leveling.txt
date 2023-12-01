@@ -29,6 +29,10 @@ Bronze Crown Skin
 Silver Crown Skin
 30{cr}
 ```
+| **Level 85**
+```
+Core of Cascade
+```
 | **Level 100**
 ```
 Gold Crown Skin

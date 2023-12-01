@@ -32,3 +32,12 @@ CloudDensity >= 0.3
 CloudColor < 0.7 (More grayish)
 ```
 Thunder is **NOT** its own type of weather, it is just an event that happens on the server to play thunder sounds.
+
+## Fog
+| Fog weather happens when the following conditions are met:
+```
+CloudCover < 0.3
+CloudDensity >= 0.6
+```
+*Foggy weather has a check index of 0*
+^ Foggy weather will change the atmopshere

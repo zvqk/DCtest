@@ -16,6 +16,7 @@ Left Arm Gear Skin Crate ({rprice:{cr}:10})
 +0.5x : 15m XP Booster ({rprice:{cr}:10})
 ```
 {hr}
+
 ## Edge Shop
 | Located in D7
 ### Skin Crates
@@ -32,7 +33,13 @@ Left Arm Gear Skin Crate ({rprice:{cr}:10})
 +0.5x : 15m XP Booster ({rprice:{cr}:10})
 +0.5x : 1hr XP Booster ({rprice:{cr}:30})
 ```
+### Materials
+```
+Gear Scrap ({rprice:{cr}:15})
+Conductive Tubing ({rprice:{cr}:7})
+```
 {hr}
+
 ## Neon Shop
 | Located in D8
 ### Skin Crates
@@ -52,6 +59,7 @@ Left Arm Gear Skin Crate ({rprice:{cr}:10})
 +0.5x : 4hr XP Booster ({rprice:{cr}:100})
 ```
 {hr}
+
 ## Gear Shop
 | Located in D1
 ### Gears
@@ -75,11 +83,23 @@ Repellant Reach ({rprice:{cr}:60})
 Director Fall Helper ({rprice:{cr}:30})
 Dasher Overcharge ({rprice:{cr}:100})
 Stepper Absorbtion ({rprice:{cr}:100})
+Booster Multiplier ({rprice:{cr}:50})
+Booster Fall Saver ({rprice:{cr}:40})
+Slinger High-Tension ({rprice:{cr}:50})
+Slingshot Overclock ({rprice:{cr}:30})
+Fins Glide ({rprice:{cr}:50})
+Swinger Yank ({rprice:{cr}:50})
+Slinger Insta-Yank ({rprice:{cr}:50})
 ```
 {hr}
+
 ## Special Shop
 | Located in D13
 ### Equippables
 ```
 Object Locator ({rprice:{cr}:50})
+```
+### Junk
+```
+Hammer ({rprice:{cr}:15})
 ```

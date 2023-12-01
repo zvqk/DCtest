@@ -1,9 +1,13 @@
+{sv:ND} Note Decrypter
 Notes are items that will help you understand the lore of District Cascade. 
 
 Upon obtaining a note, trying to read it without a **note decrypter** will result in you seeing an **encrypted note**. You are not able to decrypt the raw text from the encrypted note.
 
-## Note Decrypter
-The Note Decryper is found as a lost object. Once in your inventory, you are able to read all the notes you have collected. This item is not consumed upon use.
+## {v:ND}
+The {v:ND} is found as a lost object. Once in your inventory, you are able to read all the notes you have collected. This item is not consumed upon use.
+
+## Advanced {v:ND}
+The Advanced {v:ND} is an upgrade to the {v:ND}, which allows you to read password encrypted notes. To get this item, you must craft it at the {{workbenchs:gear shop workbench}}.
 
 ## Notes
 {(c:df1c4a)SPOILERS BELOW!}

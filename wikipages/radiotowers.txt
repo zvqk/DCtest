@@ -1,0 +1,21 @@
+Radio Towers allow you to transmit signals in exchange for rewards. There are 4 radio towers placed around the map. Radio towers can only transmit a given frequency once, as it saves progress.
+
+# Radio Transmissions
+
+## 5.00 GHz
+| Required Towers: A, B, C, D
+| Rewards:
+```
+CRA Log 0x1f4-A
+```
+
+## 16.35 GHz
+| Required Towers: D
+| Prerequisites:
+```
+Transmitted 5.00 GHz on all required towers
+```
+| Rewards:
+```
+CRA Log 0x663-A
+```

@@ -88,3 +88,8 @@ In total, there are around 60 spawns in the game at the moment.
 | Opportunity (5500 XP)
 | Rift (6000 XP)
 | Outpost Station A (5000 XP)
+
+### {(c:296449)D15 - Garden} (3)
+| Residential (6000 XP)
+| Commerce (6000 XP)
+| Old Garden (6000 XP)

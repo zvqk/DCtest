@@ -351,3 +351,34 @@ FinalXP = floor(XP)
 ### The Elite Trial ({v:Elite})
 | XP: 100 - 2000
 | Time: 60s
+
+### Short Sprint ({v:Easy})
+| XP: 10 - 100
+| Time: 20s
+
+### Itinerant ({v:Intermediate})
+| XP: 20 - 200
+| Time: 15s
+
+### Up-Down Dash ({v:Hard})
+| XP: 30 - 300
+| Time: 25s
+| Required Gear: **Dasher**
+
+### Wrong Way ({v:Hard})
+| XP: 100 - 1000
+| Time: 30s
+
+### Through The Link ({v:Hard})
+| XP: 50 - 500
+| Time: 20s
+| Required Gear: **Dasher**
+
+### Weaving ({v:Hard})
+| XP: 50 - 500
+| Time: 30s
+
+### Easy Time Trial ({v:Easy})
+| XP: 30 - 300
+| Time: 30s
+| Required Gear: **Refractralizer**

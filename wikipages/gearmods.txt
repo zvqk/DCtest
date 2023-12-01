@@ -79,3 +79,59 @@ Your dasher will be allowed to charge over it's capacity, at the cost of potenti
 ```
 Your stepper platforms will absorb some fall damage, but the cooldown is longer
 ```
+{hr}
+## Surface Deflector ({rc:Legendary})
+| Gear: WallBouncer (Arm Gear)
+| Description:
+```
+Wall-Bouncer will deflect your velocity off a wall instantly
+```
+{hr}
+## Booster Multiplier ({rc:Epic})
+| Gear: Booster (Leg Gear)
+| Description:
+```
+Booster will gain a velocity multiplier, at the cost of gravity
+```
+{hr}
+## Booster Fall Saver ({rc:Epic})
+| Gear: Booster (Leg Gear)
+| Description:
+```
+Booster will no longer cause you to take fall damage, at the cost of your veritcal velocity being returned to you after use
+```
+{hr}
+## Slinger High-Tension ({rc:Epic})
+| Gear: RopeSlinger (Arm Gear)
+| Description:
+```
+Tensioning your slinger is more powerful, at the cost of a shorter range
+```
+{hr}
+## Slingshot Overclock ({rc:Epic})
+| Gear: VelocitySlingshot (Leg Gear)
+| Description:
+```
+Velocity Slingshot will charge faster, at the cost of a lower velocity multiplier
+```
+{hr}
+## Swinger Yank ({rc:Rare})
+| Gear: RopeSwinger (Arm Gear)
+| Description:
+```
+Rope Swinger will allow you to yank yourself fowards when pressing the jump keybind while swinging upwards
+```
+{hr}
+## Fins Glide ({rc:Legendary})
+| Gear: Fins (Back Gear)
+| Description:
+```
+Fins fuel will deplete based on time rather than speed
+```
+{hr}
+## Slinger Insta-Yank ({rc:Epic})
+| Gear: RopeSlinger (Arm Gear)
+| Description:
+```
+Your slinger will yank you instantly rather than pull you towards the location
+```

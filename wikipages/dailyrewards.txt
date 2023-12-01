@@ -14,4 +14,5 @@ Every 1 Day: Currency
 Every 2 Days (Even): +1x : 15m XP Booster (1)
 Every 2 Days (Odd): Epic Skin Crate (1)
 Every 4 Days: Exotic Skin Crate (1)
+Every 20 Days: Core of Cascade (1)
 ```

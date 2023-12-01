@@ -1,0 +1,259 @@
+Crafting is essential to unlock some of the gears in the game. The crafting button can be found inside the "Progression" button category. Crafting can also be started at a {{workbenches:workbenech}}. Each workbench has its own unique crafting recipes, although they all inherit the default workbench recipes.
+
+# Regular Recipes
+## Metal Plate
+Recipe 1
+```
+Gear Scrap (1) [CONSUMED]
+```
+
+## Plastic
+Recipe 1
+```
+Empty Bottle (1) [CONSUMED]
+```
+
+Recipe 2
+```
+District Orange Soda (1) [CONSUMED]
+```
+
+Recipe 3
+```
+District-Cola (1) [CONSUMED]
+```
+
+Recipe 4
+```
+Water Bottle (1) [CONSUMED]
+```
+
+## A-Grade Flux
+Recipe 1
+```
+1hr Generator Shield (1) [CONSUMED]
+```
+
+Recipe 2
+```
+B-Grade Flux (2) [CONSUMED]
+```
+
+## B-Grade Flux
+Recipe 1
+```
+30m Generator Shield (1) [CONSUMED]
+```
+
+Recipe 2
+```
+C-Grade Flux (3) [CONSUMED]
+```
+
+## C-Grade Flux
+Recipe 1
+```
+10m Generator Shield (1) [CONSUMED]
+```
+
+## Meteorite Bar
+Recipe 1
+```
+Meteorite (2) [CONSUMED]
+Hammer (1) [NOT CONSUMED]
+```
+
+## Metal Rod
+Recipe 1
+```
+Metal Plate (1) [CONSUMED]
+```
+
+## Coil
+Recipe 1
+```
+Plastic (6) [CONSUMED]
+```
+
+## Glass
+Recipe 1
+```
+Phone (1) [CONSUMED]
+```
+
+{hr}
+# Workbench Recipes
+## Default Workbench
+## Hammer
+Recipe 1
+```
+Metal Plate (2) [CONSUMED]
+Metal Rod (2) [CONSUMED]
+```
+
+## Gear Scrap
+Recipe 1
+```
+Broken Rope Slinger (1) [CONSUMED]
+```
+
+Recipe 2
+```
+Broken Dasher (1) [CONSUMED]
+```
+
+Recipe 3
+```
+Broken Claws (1) [CONSUMED]
+```
+
+## 10m Generator Shield
+Recipe 1
+```
+Metal Plate (9) [CONSUMED]
+C-Grade Flux (1) [CONSUMED]
+Hammer (1) [NOT CONSUMED]
+```
+
+## 30m Generator Shield
+Recipe 1
+```
+Metal Plate (9) [CONSUMED]
+B-Grade Flux (1) [CONSUMED]
+Hammer (1) [NOT CONSUMED]
+```
+
+## 1hr Generator Shield
+Recipe 1
+```
+Metal Plate (9) [CONSUMED]
+A-Grade Flux (1) [CONSUMED]
+Hammer (1) [NOT CONSUMED]
+```
+
+## Chisel
+Recipe 1
+```
+Metal Plate (1) [CONSUMED]
+Metal Rod (2) [CONSUMED]
+```
+
+## Neon Workbench
+## Surface Deflector
+Recipe 1
+```
+Gear Mod Base (1) [CONSUMED]
+Hammer (1) [NOT CONSUMED]
+```
+
+## Gear Drive
+Recipe 1
+```
+Gear Scrap (2) [CONSUMED]
+Plastic (9) [CONSUMED]
+Metal Plate (3) [CONSUMED]
+A-Grade Flux (1) [CONSUMED]
+```
+
+## Gear Mod Base
+Recipe 1
+```
+Plastic (6) [CONSUMED]
+Metal Plate (3) [CONSUMED]
+C-Grade Flux (1) [CONSUMED]
+```
+
+## Gear Upgrade Kit
+Recipe 1
+```
+Gear Scrap (1) [CONSUMED]
+Plastic (6) [CONSUMED]
+Metal Plate (3) [CONSUMED]
+```
+
+## Gear Frame
+Recipe 1
+```
+Hammer (1) [NOT CONSUMED]
+Metal Rod (6) [CONSUMED]
+```
+
+## Power Steps
+Recipe 1
+```
+Hammer (1) [NOT CONSUMED]
+Metal Plate (6) [CONSUMED]
+Gear Drive (1) [CONSUMED]
+Gear Frame (2) [CONSUMED]
+C-Grade Flux (1) [CONSUMED]
+```
+
+## Refractralizer
+Recipe 1
+```
+Hammer (1) [NOT CONSUMED]
+Metal Plate (20) [CONSUMED]
+Gear Drive (1) [CONSUMED]
+Gear Frame (2) [CONSUMED]
+A-Grade Flux (1) [CONSUMED]
+Metal Rod (10) [CONSUMED]
+Resonance Gem (1) [CONSUMED]
+Resistance Gem (1) [CONSUMED]
+Mysterious Gem (1) [CONSUMED]
+Coil (2) [CONSUMED]
+Glass (6) [CONSUMED]
+Conductive Tubing (4) [CONSUMED]
+Core of Cascade (1) [CONSUMED]
+```
+
+## GearSkin Workbench
+## Bloody's Slinger 2.0
+Recipe 1
+```
+Hammer (1) [NOT CONSUMED]
+Metal Plate (12) [CONSUMED]
+Meteorite Bar (2) [CONSUMED]
+Bloody's Slinger (1) [CONSUMED]
+```
+
+## Utility Workbench
+## Delivery Pack
+Recipe 1
+```
+Metal Plate (6) [CONSUMED]
+Metal Rod (4) [CONSUMED]
+Coil (2) [CONSUMED]
+Plastic (3) [CONSUMED]
+```
+
+## Resonance Gem
+Recipe 1
+```
+Meteorite (1) [CONSUMED]
+Chisel (1) [NOT CONSUMED]
+```
+
+## Resistance Gem
+Recipe 1
+```
+Meteorite (1) [CONSUMED]
+Chisel (1) [NOT CONSUMED]
+```
+
+## Mysterious Gem
+Recipe 1
+```
+Meteorite (1) [CONSUMED]
+Chisel (1) [NOT CONSUMED]
+```
+
+## Advanced Note Decrypter
+Recipe 1
+```
+Metal Plate (6) [CONSUMED]
+Metal Rod (4) [CONSUMED]
+Plastic (3) [CONSUMED]
+Note Decrypter (1) [CONSUMED]
+Conductive Tubing (4) [CONSUMED]
+B-Grade Flux (1) [CONSUMED]
+```

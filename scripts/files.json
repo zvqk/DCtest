@@ -4,6 +4,7 @@
 	["Inventory","inventory"],
 	["Trading","trading"],
 	["Item Rarities","rarities"],
+	["Crafting","crafting"],
 
 	["Gear",true],
 	["Gears","gears"],
@@ -30,6 +31,8 @@
 	["Vending Machines","vendingmachines"],
 	["Security Cameras","securitycameras"],
 	["Drones","drones"],
+	["Workbenches","workbenches"],
+	["Radio Towers","radiotowers"],
 
 	["Gameplay",true],
 	["Tutorials","tutorials"],

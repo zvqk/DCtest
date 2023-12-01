@@ -1,0 +1,11 @@
+Workbenches are models placed around the map that allow you to {{crafting:craft}} items.
+
+# Workbenches
+| Gear Skin
+^ Located in D10 Economic Zone
+
+| Utility
+^ Located next to D1 Gear Shop
+
+| Neon
+^ Located next to D8 Neon Shop
