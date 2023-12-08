@@ -198,6 +198,7 @@ h1,h2,h3 {
     position:relative;
     right:50px;
     left: 4vw;
+    white-space: pre-wrap;
 }
 
 pre,.single-code-block {
