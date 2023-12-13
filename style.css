@@ -127,7 +127,6 @@ h1,h2,h3 {
 }
 
 #list {
-    width:15vw;
     height:80vh;
     border:2px solid var(--light-bg-color);
     border-radius:8px;
@@ -199,7 +198,7 @@ h1,h2,h3 {
     position:relative;
     right:50px;
     left: 4vw;
-    white-space:pre;
+    white-space: pre-wrap;
 }
 
 pre,.single-code-block {

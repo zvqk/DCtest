@@ -1,4 +1,5 @@
 # District Cascade Wiki
+(THIS IS A TEMPORARY FORK! This site wont be updated, its only for use until the mobile fix is pushed onto the main wiki)
 District Cascade is a sci-fi free-running parkour game, **INSPIRED** by Parkour on Roblox!
 | This game is a solo project created by {(l:@FIREYAUTO)https://www.roblox.com/users/123806474/profile}
 | This game is still a work-in-progress with **BIG** plans ahead!
