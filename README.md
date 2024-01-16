@@ -1,6 +1,6 @@
 # Testing grounds
-| This fork is *not* related to the development of the original District Cascade wiki project.
-| I use this fork to *suggest* improvements to the original wiki
+> This fork is *not* related to the development of the original District Cascade wiki project.
+> I use this fork to *suggest* improvements to the original wiki
 
 # Latest update:
 - Optimized page readability and accessibility on mobile
